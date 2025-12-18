@@ -2,7 +2,7 @@ import json
 import re
 
 # Configuration
-INPUT_LEXICON = "../clean/lexicon_complete.json"
+INPUT_LEXICON = "../clean/lexicon.json"
 OUTPUT_LEMMAS = "../clean/lemmas_mapping.json"
 
 def advanced_lemmatize(word):
