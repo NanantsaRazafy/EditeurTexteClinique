@@ -1,0 +1,77 @@
+[
+  {
+    "lemme": "teny",
+    "frequence": 63,
+    "traduction": "langue/parole"
+  },
+  {
+    "lemme": "malagasy",
+    "frequence": 42,
+    "traduction": "malgache"
+  },
+  {
+    "lemme": "madagasikara",
+    "frequence": 36,
+    "traduction": "Madagascar"
+  },
+  {
+    "lemme": "foko",
+    "frequence": 18,
+    "traduction": "ethnie/tribu/coeur"
+  },
+  {
+    "lemme": "misy",
+    "frequence": 17,
+    "traduction": "il y a"
+  },
+  {
+    "lemme": "mony",
+    "frequence": 14,
+    "traduction": "habitant/résidant"
+  },
+  {
+    "lemme": "niisa",
+    "frequence": 14,
+    "traduction": "comptait/était au nombre de"
+  },
+  {
+    "lemme": "atsimo",
+    "frequence": 13,
+    "traduction": "sud"
+  },
+  {
+    "lemme": "izay",
+    "frequence": 12,
+    "traduction": "qui/que/celui qui (relatif)"
+  },
+  {
+    "lemme": "eto",
+    "frequence": 12,
+    "traduction": "ici"
+  },
+  {
+    "lemme": "lehibe",
+    "frequence": 11,
+    "traduction": "grand/important"
+  },
+  {
+    "lemme": "faritra",
+    "frequence": 11,
+    "traduction": "région/zone"
+  },
+  {
+    "lemme": "tanà",
+    "frequence": 10,
+    "traduction": "ville/village (racine de tanàna)"
+  },
+  {
+    "lemme": "ana",
+    "frequence": 9,
+    "traduction": "à/pour (souvent un suffixe ou particule)"
+  },
+  {
+    "lemme": "koa",
+    "frequence": 9,
+    "traduction": "aussi/également"
+  }
+]

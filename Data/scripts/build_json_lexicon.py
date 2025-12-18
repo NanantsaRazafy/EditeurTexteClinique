@@ -1,10 +1,10 @@
 import json
 import re
 
-# Configuration des chemins selon votre structure de fichiers
-INPUT_FILE = "../clean/corpus_clean.txt"
-OUTPUT_LEXICON = "../clean/lexicon.json"
-OUTPUT_LEMMAS = "../clean/lemmas.json"
+# Chemins des fichiers
+INPUT_JSON = "../clean/jaona_clean.json"
+OUTPUT_LEXICON = "../clean/lexic.json"
+OUTPUT_LEMMAS = "../clean/lemmas1.json"
 
 # --- 1. VALIDATION PAR RÈGLES (REGEX) ---
 def is_valid_malagasy(word):
@@ -17,9 +17,9 @@ def is_valid_malagasy(word):
     # Règles basées sur la phonotactique malgache
     invalid_patterns = [
         r'nb|mk|dt|bp|sz|kg|pd|tj|gv',    # Combinaisons de consonnes impossibles
-        r'[bcdfghjklpqrstvwxyz]{3,}',    # Pas de clusters de 3 consonnes (ex: str)
+        r'[bcdfghjklpqrstvwxyz]{3,}',    # Pas de clusters de 3 consonnes
         r'[^aeiouyàâôîùûéèç]$',           # Obligation de finir par une voyelle
-        r'[qvwx]'                         # Lettres absentes du malgache standard (hors emprunts)
+        r'[qvwx]'                         # Lettres absentes du malgache standard
     ]
     
     for pattern in invalid_patterns:
@@ -28,11 +28,11 @@ def is_valid_malagasy(word):
     return True
 
 # --- 2. LEMMATISATION RAFFINÉE ---
-# Liste étendue pour protéger les entités nommées et les racines
 PROTECTED_WORDS = {
     "madagasikara", "antananarivo", "antsiranana", "toamasina", 
     "fianarantsoa", "mahajanga", "toliara", "manakara", "ambositra",
-    "ambatondrazaka", "ambalavao", "morondava", "antsirabe", "mananjary"
+    "ambatondrazaka", "ambalavao", "morondava", "antsirabe", "mananjary",
+    "jesosy", "kristy" # Ajout de noms bibliques protégés
 }
 
 def lemmatize_word(word):
@@ -43,7 +43,6 @@ def lemmatize_word(word):
         return word
 
     lemma = word
-    # Préfixes et suffixes courants (ordre décroissant de longueur)
     prefixes = ['mampy', 'mamp', 'manan', 'mana', 'man', 'mi', 'famp', 'fan', 'fi', 'ha']
     suffixes = ['ina', 'ana', 'ny', 'na']
 
@@ -59,12 +58,9 @@ def lemmatize_word(word):
             break
 
     # Règle de transformation phonétique
-    # En malgache, un 'i' final en milieu de mot redevient souvent 'y' en fin de mot.
     if lemma.endswith('i'):
         lemma = lemma[:-1] + 'y'
     
-    # Gestion spécifique des racines se terminant par une consonne après désaffixation
-    # (Ex: fitovizana -> toviz -> tovy)
     if not re.search(r'[aeiouy]$', lemma):
         lemma += 'y'
 
@@ -75,31 +71,42 @@ def lemmatize_word(word):
 
     return lemma
 
-# --- 3. PIPELINE DE TRAITEMENT ---
+# --- 3. PIPELINE DE TRAITEMENT POUR JSON ---
 def run_pipeline():
     try:
-        # 1. Lecture
-        with open(INPUT_FILE, "r", encoding="utf-8") as f:
-            words = f.read().split()
+        # 1. Lecture du JSON nettoyé
+        with open(INPUT_JSON, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # Extraction de tous les mots du texte
+        all_words = []
+        for chapter_key, verses in data.items():
+            if chapter_key == "meta": continue
+            for verse_num, text in verses.items():
+                # On sépare les mots par les espaces
+                all_words.extend(text.split())
 
         # 2. Filtrage et Lexique
-        unique_words = sorted(set(w for w in words if is_valid_malagasy(w)))
+        # On garde les mots uniques valides selon la phonotactique malgache
+        unique_words = sorted(set(w for w in all_words if is_valid_malagasy(w)))
         
         with open(OUTPUT_LEXICON, "w", encoding="utf-8") as f:
             json.dump(unique_words, f, ensure_ascii=False, indent=2)
 
         # 3. Lemmatisation
+        # Création du dictionnaire mot -> racine
         lemmas_dict = {word: lemmatize_word(word) for word in unique_words}
         
         with open(OUTPUT_LEMMAS, "w", encoding="utf-8") as f:
             json.dump(lemmas_dict, f, ensure_ascii=False, indent=2)
 
-        print(f"✔ Pipeline terminé avec succès !")
-        print(f"   - Mots filtrés : {len(unique_words)}")
-        print(f"   - Lemmes uniques : {len(set(lemmas_dict.values()))}")
+        print(f"✔ Lexique généré avec succès !")
+        print(f"   - Mots extraits du JSON : {len(all_words)}")
+        print(f"   - Mots uniques filtrés : {len(unique_words)}")
+        print(f"   - Racines (lemmes) identifiées : {len(set(lemmas_dict.values()))}")
 
     except FileNotFoundError:
-        print(f"Erreur : Le fichier {INPUT_FILE} est introuvable.")
+        print(f"Erreur : Le fichier {INPUT_JSON} est introuvable.")
 
 if __name__ == "__main__":
     run_pipeline()
