@@ -4,12 +4,20 @@ import os
 
 # Configuration des fichiers (Liste de sources)
 INPUT_FILES = ["../clean/bible_clean_complete.json", "../clean/corpus_clean.txt"]
-OUTPUT_LEXICON = "../clean/lexicon.json"
-OUTPUT_LEMMAS = "../clean/lemmas_complete.json"
+OUTPUT_LEXICON_JSON = "../clean/lexicon.json"
+OUTPUT_LEMMAS_JSON = "../clean/lemmas_complete.json"
+
+# Nouvelles sorties TXT
+OUTPUT_LEXICON_TXT = "../clean/lexicon.txt"
+OUTPUT_LEMMAS_TXT = "../clean/lemmas_complete.txt"
 
 # --- 1. VALIDATION ---
 def is_valid_malagasy(word):
     if len(word) < 2: return False
+    # Nettoyage des caractères non alphabétiques résiduels
+    word = re.sub(r'[^a-zàâôîùûéèç]', '', word.lower())
+    if len(word) < 2: return False
+    
     invalid_patterns = [
         r'nb|mk|dt|bp|sz|kg|pd|tj|gv', 
         r'[bcdfghjklpqrstvwxyz]{3,}', 
@@ -23,10 +31,11 @@ def is_valid_malagasy(word):
 # --- 2. LEMMATISATION AVANCÉE (Avec Infixes) ---
 def advanced_lemmatize(word):
     PROTECTED_WORDS = {"madagasikara", "jesosy", "kristy", "isiraely", "andriamanitra"}
-    if word.lower() in PROTECTED_WORDS or len(word) <= 3:
-        return word.lower()
+    word = word.lower()
+    if word in PROTECTED_WORDS or len(word) <= 3:
+        return word
 
-    lemma = word.lower()
+    lemma = word
 
     # A. Infixes (-in-, -om-)
     for inf in ['in', 'om']:
@@ -67,33 +76,42 @@ def run_pipeline():
         
         print(f"Traitement de : {file_path}...")
         
-        # Cas 1 : Si c'est le JSON de la Bible
         if file_path.endswith(".json"):
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                # On extrait récursivement les textes du dictionnaire
                 def extract_from_dict(d):
                     for v in d.values():
                         if isinstance(v, dict): extract_from_dict(v)
                         else: all_words.extend(v.split())
                 extract_from_dict(data)
-        
-        # Cas 2 : Si c'est le corpus texte brut
         else:
             with open(file_path, "r", encoding="utf-8") as f:
                 all_words.extend(f.read().split())
 
-    # Filtrage et Sauvegarde
-    unique_words = sorted(set(w for w in all_words if is_valid_malagasy(w)))
+    # --- Nettoyage et Unification ---
+    unique_words = sorted(set(w.lower().strip('.,!?:;()[]"') for w in all_words if is_valid_malagasy(w)))
     
-    with open(OUTPUT_LEXICON, "w", encoding="utf-8") as f:
+    # --- SAUVEGARDE LEXIQUE ---
+    # JSON
+    with open(OUTPUT_LEXICON_JSON, "w", encoding="utf-8") as f:
         json.dump(unique_words, f, ensure_ascii=False, indent=2)
+    # TXT
+    with open(OUTPUT_LEXICON_TXT, "w", encoding="utf-8") as f:
+        f.write("\n".join(unique_words))
 
+    # --- SAUVEGARDE LEMMES ---
     lemmas_dict = {word: advanced_lemmatize(word) for word in unique_words}
-    with open(OUTPUT_LEMMAS, "w", encoding="utf-8") as f:
+    # JSON
+    with open(OUTPUT_LEMMAS_JSON, "w", encoding="utf-8") as f:
         json.dump(lemmas_dict, f, ensure_ascii=False, indent=2)
+    # TXT (Format: mot_original -> lemme)
+    with open(OUTPUT_LEMMAS_TXT, "w", encoding="utf-8") as f:
+        for word, lemma in lemmas_dict.items():
+            f.write(f"{word} -> {lemma}\n")
 
-    print(f"\n✔ Terminé ! Lexique : {len(unique_words)} mots. Lemmes : {len(set(lemmas_dict.values()))}")
+    print(f"\n✔ Terminé !")
+    print(f"Lexique : {len(unique_words)} mots (sauvegardé en .json et .txt)")
+    print(f"Lemmes  : {len(set(lemmas_dict.values()))} racines (sauvegardé en .json et .txt)")
 
 if __name__ == "__main__":
     run_pipeline()
