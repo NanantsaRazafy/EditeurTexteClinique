@@ -1,0 +1,4590 @@
+{
+  "abrahama": {
+    "root": "abrahama",
+    "translation_fr": "Abraham"
+  },
+  "afabaraka": {
+    "root": "afabaraka",
+    "translation_fr": "humilié"
+  },
+  "afaka": {
+    "root": "afaka",
+    "translation_fr": "peut"
+  },
+  "afo": {
+    "root": "afo",
+    "translation_fr": "feu"
+  },
+  "afrika": {
+    "root": "afrika",
+    "translation_fr": "Afrique"
+  },
+  "afrikana": {
+    "root": "afriky",
+    "translation_fr": "Afrique"
+  },
+  "ahafahantsika": {
+    "root": "ahafahany",
+    "translation_fr": "il peut"
+  },
+  "ahafantaranareo": {
+    "root": "ahafantary",
+    "translation_fr": "savoir"
+  },
+  "ahafantarantsika": {
+    "root": "ahafantarany",
+    "translation_fr": "il sait"
+  },
+  "ahaizantsika": {
+    "root": "ahaizany",
+    "translation_fr": "il appartient à"
+  },
+  "ahalalanizao": {
+    "root": "ahalalanizao",
+    "translation_fr": "fais-moi savoir"
+  },
+  "ahitana": {
+    "root": "ahity",
+    "translation_fr": "voir"
+  },
+  "ahitra": {
+    "root": "ahitra",
+    "translation_fr": "herbe"
+  },
+  "aho": {
+    "root": "aho",
+    "translation_fr": "moi"
+  },
+  "ahoana": {
+    "root": "aho",
+    "translation_fr": "moi"
+  },
+  "aintsika": {
+    "root": "ainy",
+    "translation_fr": "sa vie"
+  },
+  "ainy": {
+    "root": "ainy",
+    "translation_fr": "sa vie"
+  },
+  "akademia": {
+    "root": "akademia",
+    "translation_fr": "académie"
+  },
+  "akaiky": {
+    "root": "akaiky",
+    "translation_fr": "près"
+  },
+  "akanjo": {
+    "root": "akanjo",
+    "translation_fr": "vêtements"
+  },
+  "akory": {
+    "root": "akory",
+    "translation_fr": "même"
+  },
+  "alalani": {
+    "root": "alalany",
+    "translation_fr": "sa permission"
+  },
+  "alalanny": {
+    "root": "alalany",
+    "translation_fr": "sa permission"
+  },
+  "alalany": {
+    "root": "alala",
+    "translation_fr": "d'accord"
+  },
+  "alaotra": {
+    "root": "alaotra",
+    "translation_fr": "gratuit"
+  },
+  "alehany": {
+    "root": "aleha",
+    "translation_fr": "aller"
+  },
+  "alemàna": {
+    "root": "alemà",
+    "translation_fr": "Allemand"
+  },
+  "aleo": {
+    "root": "aleo",
+    "translation_fr": "allez"
+  },
+  "aloha": {
+    "root": "aloha",
+    "translation_fr": "d'abord"
+  },
+  "amandra": {
+    "root": "amandra",
+    "translation_fr": "amanda"
+  },
+  "amantarana": {
+    "root": "amantary",
+    "translation_fr": "amantara"
+  },
+  "amantsara": {
+    "root": "amantsara",
+    "translation_fr": "avertissement"
+  },
+  "ambaninny": {
+    "root": "ambaniny",
+    "translation_fr": "dessous"
+  },
+  "ambany": {
+    "root": "amba",
+    "translation_fr": "amba"
+  },
+  "ambara": {
+    "root": "ambara",
+    "translation_fr": "annoncé"
+  },
+  "ambatolampy": {
+    "root": "ambatolampy",
+    "translation_fr": "plateau"
+  },
+  "ambatondrazaka": {
+    "root": "ambatondrazaka",
+    "translation_fr": "être enceinte"
+  },
+  "amboasary": {
+    "root": "amboasary",
+    "translation_fr": "orange"
+  },
+  "ambohimahasoa": {
+    "root": "ambohimahasoa",
+    "translation_fr": "bienveillant"
+  },
+  "ambohimahazo": {
+    "root": "ambohimahazo",
+    "translation_fr": "manioc"
+  },
+  "ambohimanga": {
+    "root": "ambohimanga",
+    "translation_fr": "violet"
+  },
+  "ambohinamboarina": {
+    "root": "ambohinamboary",
+    "translation_fr": "atelier de réparation"
+  },
+  "amboninny": {
+    "root": "amboniny",
+    "translation_fr": "au-dessus de"
+  },
+  "ambony": {
+    "root": "ambo",
+    "translation_fr": "ambo"
+  },
+  "ambositra": {
+    "root": "ambositra",
+    "translation_fr": "un patron"
+  },
+  "amena": {
+    "root": "ame",
+    "translation_fr": "je suis"
+  },
+  "amerika": {
+    "root": "amerika",
+    "translation_fr": "Amérique"
+  },
+  "amerikanina": {
+    "root": "amerikany",
+    "translation_fr": "Américain"
+  },
+  "aminandriamanitra": {
+    "root": "aminandriamanitra",
+    "translation_fr": "par Dieu"
+  },
+  "aminao": {
+    "root": "aminao",
+    "translation_fr": "pour vous"
+  },
+  "aminareo": {
+    "root": "aminareo",
+    "translation_fr": "pour vous"
+  },
+  "aminay": {
+    "root": "aminay",
+    "translation_fr": "pour nous"
+  },
+  "amini": {
+    "root": "aminy",
+    "translation_fr": "à lui"
+  },
+  "aminilay": {
+    "root": "aminilay",
+    "translation_fr": "aminilay"
+  },
+  "aminizany": {
+    "root": "aminiza",
+    "translation_fr": "dites-moi"
+  },
+  "aminizao": {
+    "root": "aminizao",
+    "translation_fr": "maintenant"
+  },
+  "aminizay": {
+    "root": "aminizay",
+    "translation_fr": "à ce moment-là"
+  },
+  "aminizy": {
+    "root": "aminizy",
+    "translation_fr": "à lui"
+  },
+  "aminny": {
+    "root": "aminy",
+    "translation_fr": "à lui"
+  },
+  "amintsika": {
+    "root": "aminy",
+    "translation_fr": "à lui"
+  },
+  "aminy": {
+    "root": "amy",
+    "translation_fr": "Amy"
+  },
+  "ampamoaka": {
+    "root": "ampamoaka",
+    "translation_fr": "être tenu responsable"
+  },
+  "ampanihy": {
+    "root": "ampanihy",
+    "translation_fr": "danse"
+  },
+  "ampianarina": {
+    "root": "ampianary",
+    "translation_fr": "enseigner"
+  },
+  "ampianarinolona": {
+    "root": "ampianarinolo",
+    "translation_fr": "être enseigné"
+  },
+  "ampiandohana": {
+    "root": "ampiandohy",
+    "translation_fr": "ajoutez-le"
+  },
+  "ampiasaina": {
+    "root": "ampiasa",
+    "translation_fr": "utiliser"
+  },
+  "ampiasao": {
+    "root": "ampiasao",
+    "translation_fr": "utilise-le"
+  },
+  "ampielezana": {
+    "root": "ampielezy",
+    "translation_fr": "Diaspora"
+  },
+  "ampijalina": {
+    "root": "ampijaly",
+    "translation_fr": "torture"
+  },
+  "ampo": {
+    "root": "ampo",
+    "translation_fr": "ampo"
+  },
+  "amponareo": {
+    "root": "amponareo",
+    "translation_fr": "vous tous"
+  },
+  "amponizany": {
+    "root": "amponiza",
+    "translation_fr": "aide-moi"
+  },
+  "amponja": {
+    "root": "amponja",
+    "translation_fr": "prison"
+  },
+  "ampontsika": {
+    "root": "ampony",
+    "translation_fr": "en haut"
+  },
+  "ampony": {
+    "root": "ampo",
+    "translation_fr": "ampo"
+  },
+  "ampy": {
+    "root": "ampy",
+    "translation_fr": "assez"
+  },
+  "anaka": {
+    "root": "anaka",
+    "translation_fr": "fils"
+  },
+  "anananareo": {
+    "root": "anany",
+    "translation_fr": "propre"
+  },
+  "ananantsika": {
+    "root": "ananany",
+    "translation_fr": "il a"
+  },
+  "anandriamanitra": {
+    "root": "anandriamanitra",
+    "translation_fr": "Dieu"
+  },
+  "anarana": {
+    "root": "anary",
+    "translation_fr": "anaire"
+  },
+  "anarani": {
+    "root": "anarany",
+    "translation_fr": "son nom"
+  },
+  "anaranny": {
+    "root": "anarany",
+    "translation_fr": "son nom"
+  },
+  "anarany": {
+    "root": "anara",
+    "translation_fr": "nom"
+  },
+  "anareo": {
+    "root": "anareo",
+    "translation_fr": "de toi"
+  },
+  "anatinizany": {
+    "root": "anatiniza",
+    "translation_fr": "interne"
+  },
+  "anatrehanandriamanitra": {
+    "root": "anatrehanandriamanitra",
+    "translation_fr": "devant Dieu"
+  },
+  "anatrehanizay": {
+    "root": "anatrehanizay",
+    "translation_fr": "avant ça"
+  },
+  "anatrehany": {
+    "root": "anatreha",
+    "translation_fr": "présent"
+  },
+  "anay": {
+    "root": "anay",
+    "translation_fr": "nous"
+  },
+  "andanitra": {
+    "root": "andanitra",
+    "translation_fr": "Andara"
+  },
+  "andao": {
+    "root": "andao",
+    "translation_fr": "allons-y"
+  },
+  "andianondrinandriamanitra": {
+    "root": "andianondrinandriamanitra",
+    "translation_fr": "un groupe de dieux"
+  },
+  "andraso": {
+    "root": "andraso",
+    "translation_fr": "attendez"
+  },
+  "andrefana": {
+    "root": "andrefy",
+    "translation_fr": "Ouest"
+  },
+  "andriamanitra": {
+    "root": "andriamanitra",
+    "translation_fr": "Dieu"
+  },
+  "andringitra": {
+    "root": "andringitra",
+    "translation_fr": "pilier"
+  },
+  "andro": {
+    "root": "andro",
+    "translation_fr": "jour"
+  },
+  "androni": {
+    "root": "androny",
+    "translation_fr": "jour"
+  },
+  "anefa": {
+    "root": "anefa",
+    "translation_fr": "cependant"
+  },
+  "angatahiko": {
+    "root": "angatahy",
+    "translation_fr": "demander"
+  },
+  "angatahintsika": {
+    "root": "angatahiny",
+    "translation_fr": "il demande"
+  },
+  "ange": {
+    "root": "ange",
+    "translation_fr": "peut être"
+  },
+  "anglisy": {
+    "root": "anglisy",
+    "translation_fr": "Anglais"
+  },
+  "ani": {
+    "root": "ani",
+    "translation_fr": "ani"
+  },
+  "anie": {
+    "root": "anie",
+    "translation_fr": "Oui"
+  },
+  "anilay": {
+    "root": "anilay",
+    "translation_fr": "côté"
+  },
+  "anio": {
+    "root": "anio",
+    "translation_fr": "aujourd'hui"
+  },
+  "anireny": {
+    "root": "anire",
+    "translation_fr": "ici"
+  },
+  "anireo": {
+    "root": "anireo",
+    "translation_fr": "ici"
+  },
+  "anisanny": {
+    "root": "anisany",
+    "translation_fr": "parmi eux"
+  },
+  "anizany": {
+    "root": "aniza",
+    "translation_fr": "aniza"
+  },
+  "anizao": {
+    "root": "anizao",
+    "translation_fr": "ici"
+  },
+  "anizay": {
+    "root": "anizay",
+    "translation_fr": "là-bas"
+  },
+  "anjely": {
+    "root": "anjely",
+    "translation_fr": "ange"
+  },
+  "anjiro": {
+    "root": "anjiro",
+    "translation_fr": "lumière"
+  },
+  "ankamaroany": {
+    "root": "ankamaroa",
+    "translation_fr": "beaucoup"
+  },
+  "ankapobeny": {
+    "root": "ankapobe",
+    "translation_fr": "général"
+  },
+  "ankasitrahanandriamanitra": {
+    "root": "ankasitrahanandriamanitra",
+    "translation_fr": "s'il te plaît mon Dieu"
+  },
+  "ankazoabo": {
+    "root": "ankazoabo",
+    "translation_fr": "ankazoabo"
+  },
+  "ankehitriny": {
+    "root": "ankehitry",
+    "translation_fr": "maintenant"
+  },
+  "ankizy": {
+    "root": "ankizy",
+    "translation_fr": "enfants"
+  },
+  "ankoatra": {
+    "root": "ankoatra",
+    "translation_fr": "en outre"
+  },
+  "anny": {
+    "root": "anny",
+    "translation_fr": "anny"
+  },
+  "anoratako": {
+    "root": "anorata",
+    "translation_fr": "écrire"
+  },
+  "anosy": {
+    "root": "anosy",
+    "translation_fr": "allons-y"
+  },
+  "antambahoaka": {
+    "root": "antambahoaka",
+    "translation_fr": "publique"
+  },
+  "antanala": {
+    "root": "antanala",
+    "translation_fr": "faire une pause"
+  },
+  "antandroy": {
+    "root": "antandroy",
+    "translation_fr": "attendez"
+  },
+  "antankarana": {
+    "root": "antankary",
+    "translation_fr": "Antkarya"
+  },
+  "antanosy": {
+    "root": "antanosy",
+    "translation_fr": "poursuivre"
+  },
+  "antany": {
+    "root": "anta",
+    "translation_fr": "des choses"
+  },
+  "antefasy": {
+    "root": "antefasy",
+    "translation_fr": "antéfasie"
+  },
+  "antemoro": {
+    "root": "antemoro",
+    "translation_fr": "antémoro"
+  },
+  "antenatenany": {
+    "root": "antenatena",
+    "translation_fr": "au milieu"
+  },
+  "antery": {
+    "root": "antery",
+    "translation_fr": "anthère"
+  },
+  "antesaka": {
+    "root": "antesaka",
+    "translation_fr": "à mi-chemin"
+  },
+  "antipanahy": {
+    "root": "antipanahy",
+    "translation_fr": "vieillard"
+  },
+  "antonny": {
+    "root": "antony",
+    "translation_fr": "raison"
+  },
+  "antony": {
+    "root": "anto",
+    "translation_fr": "anto"
+  },
+  "antsaha": {
+    "root": "antsaha",
+    "translation_fr": "même"
+  },
+  "antsika": {
+    "root": "antsika",
+    "translation_fr": "nous"
+  },
+  "antsirabe": {
+    "root": "antsirabe",
+    "translation_fr": "beaucoup"
+  },
+  "antsiranana": {
+    "root": "antsirany",
+    "translation_fr": "il est temps"
+  },
+  "antsitrapo": {
+    "root": "antsitrapo",
+    "translation_fr": "volontairement"
+  },
+  "antsohihy": {
+    "root": "antsohihy",
+    "translation_fr": "crier"
+  },
+  "antsoinareo": {
+    "root": "antso",
+    "translation_fr": "appel"
+  },
+  "any": {
+    "root": "any",
+    "translation_fr": "là"
+  },
+  "ao": {
+    "root": "ao",
+    "translation_fr": "là"
+  },
+  "aoka": {
+    "root": "aoka",
+    "translation_fr": "allons"
+  },
+  "aorianizany": {
+    "root": "aorianiza",
+    "translation_fr": "Après vous"
+  },
+  "aorina": {
+    "root": "aory",
+    "translation_fr": "après"
+  },
+  "apetraho": {
+    "root": "apetraho",
+    "translation_fr": "pose-le"
+  },
+  "apostolini": {
+    "root": "apostoliny",
+    "translation_fr": "ses apôtres"
+  },
+  "arabo": {
+    "root": "arabo",
+    "translation_fr": "arabe"
+  },
+  "aradrariny": {
+    "root": "aradrary",
+    "translation_fr": "ça fait mal"
+  },
+  "araka": {
+    "root": "araka",
+    "translation_fr": "selon"
+  },
+  "arakaraka": {
+    "root": "arakaraka",
+    "translation_fr": "selon"
+  },
+  "arakolontsaina": {
+    "root": "arakolontsa",
+    "translation_fr": "culturel"
+  },
+  "arapanahy": {
+    "root": "arapanahy",
+    "translation_fr": "spiritualité"
+  },
+  "arapoko": {
+    "root": "arapo",
+    "translation_fr": "arpo"
+  },
+  "arateknika": {
+    "root": "arateknika",
+    "translation_fr": "technique"
+  },
+  "ary": {
+    "root": "ary",
+    "translation_fr": "et"
+  },
+  "asa": {
+    "root": "asa",
+    "translation_fr": "emploi"
+  },
+  "asanny": {
+    "root": "asany",
+    "translation_fr": "son travail"
+  },
+  "aseho": {
+    "root": "aseho",
+    "translation_fr": "montré"
+  },
+  "asehonandriamanitra": {
+    "root": "asehonandriamanitra",
+    "translation_fr": "montré par Dieu"
+  },
+  "asehonareo": {
+    "root": "asehonareo",
+    "translation_fr": "tu montres"
+  },
+  "asehoy": {
+    "root": "asehoy",
+    "translation_fr": "montre-le"
+  },
+  "atahorana": {
+    "root": "atahory",
+    "translation_fr": "avoir peur"
+  },
+  "atahoranizy": {
+    "root": "atahoranizy",
+    "translation_fr": "il a peur"
+  },
+  "atao": {
+    "root": "atao",
+    "translation_fr": "fait"
+  },
+  "ataonareo": {
+    "root": "ataonareo",
+    "translation_fr": "tu fais"
+  },
+  "ataonny": {
+    "root": "ataony",
+    "translation_fr": "il le fait"
+  },
+  "ataony": {
+    "root": "atao",
+    "translation_fr": "fait"
+  },
+  "atsimo": {
+    "root": "atsimo",
+    "translation_fr": "Sud"
+  },
+  "atsimoandrefana": {
+    "root": "atsimoandrefy",
+    "translation_fr": "sud-ouest"
+  },
+  "atsimoatsinanana": {
+    "root": "atsimoatsinany",
+    "translation_fr": "sud-est"
+  },
+  "atsinanana": {
+    "root": "atsinany",
+    "translation_fr": "est"
+  },
+  "aza": {
+    "root": "aza",
+    "translation_fr": "ne le faites pas"
+  },
+  "azia": {
+    "root": "azia",
+    "translation_fr": "Asie"
+  },
+  "aziatika": {
+    "root": "aziatika",
+    "translation_fr": "asiatique"
+  },
+  "azo": {
+    "root": "azo",
+    "translation_fr": "peut"
+  },
+  "azonareo": {
+    "root": "azonareo",
+    "translation_fr": "tu l'as"
+  },
+  "azontsika": {
+    "root": "azony",
+    "translation_fr": "il a compris"
+  },
+  "azy": {
+    "root": "azy",
+    "translation_fr": "lui"
+  },
+  "bahaisma": {
+    "root": "bahaisma",
+    "translation_fr": "Bahaïsme"
+  },
+  "bahasa": {
+    "root": "bahasa",
+    "translation_fr": "langue"
+  },
+  "bahay": {
+    "root": "bahay",
+    "translation_fr": "maison"
+  },
+  "banto": {
+    "root": "banto",
+    "translation_fr": "Bantous"
+  },
+  "bara": {
+    "root": "bara",
+    "translation_fr": "bar"
+  },
+  "batisa": {
+    "root": "batisa",
+    "translation_fr": "baptême"
+  },
+  "be": {
+    "root": "be",
+    "translation_fr": "beaucoup"
+  },
+  "bealanana": {
+    "root": "bealany",
+    "translation_fr": "bealany"
+  },
+  "beloha": {
+    "root": "beloha",
+    "translation_fr": "déjà"
+  },
+  "beparasy": {
+    "root": "beparasy",
+    "translation_fr": "lèpre"
+  },
+  "bereketa": {
+    "root": "bereketa",
+    "translation_fr": "bereketa"
+  },
+  "beroroha": {
+    "root": "beroroha",
+    "translation_fr": "pleurer"
+  },
+  "besalampy": {
+    "root": "besalampy",
+    "translation_fr": "bésalampie"
+  },
+  "betioky": {
+    "root": "betioky",
+    "translation_fr": "vidéo"
+  },
+  "betroka": {
+    "root": "betroka",
+    "translation_fr": "occupé"
+  },
+  "betsaka": {
+    "root": "betsaka",
+    "translation_fr": "beaucoup"
+  },
+  "betsileo": {
+    "root": "betsileo",
+    "translation_fr": "betsileo"
+  },
+  "betsimisaraka": {
+    "root": "betsimisaraka",
+    "translation_fr": "beaucoup se séparent"
+  },
+  "bezaha": {
+    "root": "bezaha",
+    "translation_fr": "beza"
+  },
+  "bezanozano": {
+    "root": "bezanozano",
+    "translation_fr": "bezanozano"
+  },
+  "bitynia": {
+    "root": "bitynia",
+    "translation_fr": "Bithynie"
+  },
+  "boriziny": {
+    "root": "borizy",
+    "translation_fr": "brosse"
+  },
+  "bôrneô": {
+    "root": "bôrneô",
+    "translation_fr": "Bornéo"
+  },
+  "daholo": {
+    "root": "daholo",
+    "translation_fr": "tous"
+  },
+  "data": {
+    "root": "data",
+    "translation_fr": "données"
+  },
+  "dera": {
+    "root": "dera",
+    "translation_fr": "louer"
+  },
+  "dia": {
+    "root": "dia",
+    "translation_fr": "est"
+  },
+  "diany": {
+    "root": "dia",
+    "translation_fr": "est"
+  },
+  "didinny": {
+    "root": "didiny",
+    "translation_fr": "son commandement"
+  },
+  "didiny": {
+    "root": "didy",
+    "translation_fr": "commande"
+  },
+  "didy": {
+    "root": "didy",
+    "translation_fr": "commande"
+  },
+  "diso": {
+    "root": "diso",
+    "translation_fr": "faux"
+  },
+  "efa": {
+    "root": "efa",
+    "translation_fr": "déjà"
+  },
+  "ejeda": {
+    "root": "ejeda",
+    "translation_fr": "Ejeda"
+  },
+  "ekeo": {
+    "root": "ekeo",
+    "translation_fr": "accepte-le"
+  },
+  "ela": {
+    "root": "ela",
+    "translation_fr": "long"
+  },
+  "endrika": {
+    "root": "endrika",
+    "translation_fr": "formulaire"
+  },
+  "endriky": {
+    "root": "endriky",
+    "translation_fr": "formulaire"
+  },
+  "endriny": {
+    "root": "endry",
+    "translation_fr": "regarder"
+  },
+  "enga": {
+    "root": "enga",
+    "translation_fr": "peut être"
+  },
+  "eny": {
+    "root": "eny",
+    "translation_fr": "Oui"
+  },
+  "eo": {
+    "root": "eo",
+    "translation_fr": "là"
+  },
+  "eorôpeana": {
+    "root": "eorôpe",
+    "translation_fr": "Europe"
+  },
+  "eranizao": {
+    "root": "eranizao",
+    "translation_fr": "partout"
+  },
+  "eritrereto": {
+    "root": "eritrereto",
+    "translation_fr": "réfléchis-y"
+  },
+  "esory": {
+    "root": "esory",
+    "translation_fr": "retirez-le"
+  },
+  "espaniôla": {
+    "root": "espaniôla",
+    "translation_fr": "Espagnol"
+  },
+  "etazonia": {
+    "root": "etazonia",
+    "translation_fr": "États-Unis"
+  },
+  "eto": {
+    "root": "eto",
+    "translation_fr": "ici"
+  },
+  "ezaka": {
+    "root": "ezaka",
+    "translation_fr": "effort"
+  },
+  "fa": {
+    "root": "fa",
+    "translation_fr": "mais"
+  },
+  "faha": {
+    "root": "faha",
+    "translation_fr": "d'abord"
+  },
+  "fahafahanareo": {
+    "root": "fahafahy",
+    "translation_fr": "liberté"
+  },
+  "fahalalana": {
+    "root": "fahalaly",
+    "translation_fr": "connaissance"
+  },
+  "fahalotoanny": {
+    "root": "fahalotoany",
+    "translation_fr": "son impureté"
+  },
+  "fahamarinana": {
+    "root": "fahamariny",
+    "translation_fr": "vérité"
+  },
+  "faharatsiana": {
+    "root": "faharatsy",
+    "translation_fr": "pire"
+  },
+  "faharoa": {
+    "root": "faharoa",
+    "translation_fr": "deuxièmement"
+  },
+  "fahazotoana": {
+    "root": "fahazoto",
+    "translation_fr": "diligence"
+  },
+  "fahefana": {
+    "root": "fahefy",
+    "translation_fr": "autorité"
+  },
+  "fahefanilay": {
+    "root": "fahefanilay",
+    "translation_fr": "l'autorité"
+  },
+  "fahiratantsaina": {
+    "root": "fahiratantsa",
+    "translation_fr": "intelligence"
+  },
+  "fahoriana": {
+    "root": "fahory",
+    "translation_fr": "détresse"
+  },
+  "fahotana": {
+    "root": "fahoty",
+    "translation_fr": "péché"
+  },
+  "fahotantsika": {
+    "root": "fahotany",
+    "translation_fr": "son péché"
+  },
+  "faly": {
+    "root": "faly",
+    "translation_fr": "heureux"
+  },
+  "famindrampo": {
+    "root": "famindrampo",
+    "translation_fr": "miséricorde"
+  },
+  "famonjena": {
+    "root": "famonje",
+    "translation_fr": "salut"
+  },
+  "fampianarana": {
+    "root": "ianary",
+    "translation_fr": "apprendre"
+  },
+  "fampiasa": {
+    "root": "iasa",
+    "translation_fr": "travail"
+  },
+  "fampiasana": {
+    "root": "iasy",
+    "translation_fr": "Oui"
+  },
+  "fampideraderana": {
+    "root": "ideradery",
+    "translation_fr": "frimer"
+  },
+  "fampiharihariana": {
+    "root": "iharihary",
+    "translation_fr": "évident"
+  },
+  "fampiofanana": {
+    "root": "iofany",
+    "translation_fr": "il s'entraîne"
+  },
+  "fanahinandriamanitra": {
+    "root": "ahinandriamanitra",
+    "translation_fr": "Que Dieu te bénisse"
+  },
+  "fanahinny": {
+    "root": "ahiny",
+    "translation_fr": "son"
+  },
+  "fanahiny": {
+    "root": "ahy",
+    "translation_fr": "moi"
+  },
+  "fanahy": {
+    "root": "ahy",
+    "translation_fr": "moi"
+  },
+  "fanajana": {
+    "root": "aja",
+    "translation_fr": "ne le faites pas"
+  },
+  "fanaka": {
+    "root": "aka",
+    "translation_fr": "alias"
+  },
+  "fanambarana": {
+    "root": "ambary",
+    "translation_fr": "dire"
+  },
+  "fanambaranny": {
+    "root": "ambarany",
+    "translation_fr": "il dit"
+  },
+  "fananana": {
+    "root": "ana",
+    "translation_fr": "Ana"
+  },
+  "fananany": {
+    "root": "ana",
+    "translation_fr": "Ana"
+  },
+  "fanandroana": {
+    "root": "andro",
+    "translation_fr": "jour"
+  },
+  "fanantenana": {
+    "root": "anteny",
+    "translation_fr": "antenne"
+  },
+  "fanantenanareo": {
+    "root": "anteny",
+    "translation_fr": "antenne"
+  },
+  "fanao": {
+    "root": "fanao",
+    "translation_fr": "coutume"
+  },
+  "fanaonireo": {
+    "root": "aonireo",
+    "translation_fr": "allons-y"
+  },
+  "fanaratsiana": {
+    "root": "aratsy",
+    "translation_fr": "mal"
+  },
+  "fanatrehany": {
+    "root": "atreha",
+    "translation_fr": "affronter"
+  },
+  "fandeferana": {
+    "root": "defery",
+    "translation_fr": "reporter"
+  },
+  "fandraharahana": {
+    "root": "draharahy",
+    "translation_fr": "frère"
+  },
+  "fanesorana": {
+    "root": "esory",
+    "translation_fr": "retirez-le"
+  },
+  "fanetrentena": {
+    "root": "etrente",
+    "translation_fr": "etrent"
+  },
+  "fangarony": {
+    "root": "garo",
+    "translation_fr": "garo"
+  },
+  "fangatahana": {
+    "root": "gatahy",
+    "translation_fr": "l'obtenir"
+  },
+  "fangorahana": {
+    "root": "gorahy",
+    "translation_fr": "s'en aller"
+  },
+  "faniriana": {
+    "root": "iry",
+    "translation_fr": "celui"
+  },
+  "fanirianny": {
+    "root": "iriany",
+    "translation_fr": "il veut"
+  },
+  "fanirianolombelona": {
+    "root": "irianolombelo",
+    "translation_fr": "jaloux"
+  },
+  "faniriany": {
+    "root": "iria",
+    "translation_fr": "souhait"
+  },
+  "fanjakana": {
+    "root": "jaky",
+    "translation_fr": "rouge"
+  },
+  "fanjanahantany": {
+    "root": "janahanta",
+    "translation_fr": "Jahanta"
+  },
+  "fanomezana": {
+    "root": "omezy",
+    "translation_fr": "donner"
+  },
+  "fanompoana": {
+    "root": "ompo",
+    "translation_fr": "gifler"
+  },
+  "fanompoantsampy": {
+    "root": "ompoantsampy",
+    "translation_fr": "idolâtrie"
+  },
+  "fanononana": {
+    "root": "onony",
+    "translation_fr": "seul"
+  },
+  "fanoratana": {
+    "root": "oraty",
+    "translation_fr": "oratoire"
+  },
+  "fantany": {
+    "root": "tany",
+    "translation_fr": "Terre"
+  },
+  "fantaro": {
+    "root": "taro",
+    "translation_fr": "taro"
+  },
+  "fantatra": {
+    "root": "tatra",
+    "translation_fr": "épuisé"
+  },
+  "fantatrandriamanitra": {
+    "root": "tatrandriamanitra",
+    "translation_fr": "parfum"
+  },
+  "fantatrareo": {
+    "root": "tatrareo",
+    "translation_fr": "rattraper"
+  },
+  "fantatro": {
+    "root": "tatro",
+    "translation_fr": "Je suis là"
+  },
+  "fantatsika": {
+    "root": "tatsika",
+    "translation_fr": "nous pouvons voir"
+  },
+  "farafangana": {
+    "root": "farafangy",
+    "translation_fr": "enfin"
+  },
+  "faranny": {
+    "root": "farany",
+    "translation_fr": "enfin"
+  },
+  "farany": {
+    "root": "fara",
+    "translation_fr": "enfin"
+  },
+  "faritra": {
+    "root": "faritra",
+    "translation_fr": "région"
+  },
+  "faty": {
+    "root": "faty",
+    "translation_fr": "cadavre"
+  },
+  "fehizoro": {
+    "root": "fehizoro",
+    "translation_fr": "frontière"
+  },
+  "feno": {
+    "root": "feno",
+    "translation_fr": "complet"
+  },
+  "feonny": {
+    "root": "feony",
+    "translation_fr": "sa voix"
+  },
+  "fety": {
+    "root": "fety",
+    "translation_fr": "faire la fête"
+  },
+  "fiadanana": {
+    "root": "adany",
+    "translation_fr": "lutte"
+  },
+  "fiaina": {
+    "root": "aina",
+    "translation_fr": "vie"
+  },
+  "fiainana": {
+    "root": "ainy",
+    "translation_fr": "sa vie"
+  },
+  "fiainani": {
+    "root": "ainany",
+    "translation_fr": "sa vie"
+  },
+  "fiainanolona": {
+    "root": "ainanolo",
+    "translation_fr": "ainalo"
+  },
+  "fiainantsika": {
+    "root": "ainany",
+    "translation_fr": "sa vie"
+  },
+  "fiainany": {
+    "root": "aina",
+    "translation_fr": "vie"
+  },
+  "fialonana": {
+    "root": "alony",
+    "translation_fr": "abaisse-le"
+  },
+  "fianarana": {
+    "root": "anary",
+    "translation_fr": "anaire"
+  },
+  "fianarantsoa": {
+    "root": "anarantsoa",
+    "translation_fr": "nom"
+  },
+  "fiandraiketanareo": {
+    "root": "andraikety",
+    "translation_fr": "responsabilité"
+  },
+  "fiangonana": {
+    "root": "angony",
+    "translation_fr": "collecter"
+  },
+  "fieritreretana": {
+    "root": "eritrerety",
+    "translation_fr": "pense"
+  },
+  "fihatsarambelatsihy": {
+    "root": "hatsarambelatsihy",
+    "translation_fr": "Gentillesse"
+  },
+  "fihetsehampony": {
+    "root": "hetsehampo",
+    "translation_fr": "action"
+  },
+  "fijaliana": {
+    "root": "jaly",
+    "translation_fr": "Jaly"
+  },
+  "fijaliani": {
+    "root": "jaliany",
+    "translation_fr": "ils souffrent"
+  },
+  "filanny": {
+    "root": "lany",
+    "translation_fr": "s'épuiser"
+  },
+  "filazantsara": {
+    "root": "lazantsara",
+    "translation_fr": "légende"
+  },
+  "finoana": {
+    "root": "foa",
+    "translation_fr": "toujours"
+  },
+  "finoanareo": {
+    "root": "foanareo",
+    "translation_fr": "vous tous"
+  },
+  "finoantsika": {
+    "root": "foany",
+    "translation_fr": "toujours"
+  },
+  "firazanana": {
+    "root": "razany",
+    "translation_fr": "ses ancêtres"
+  },
+  "firenena": {
+    "root": "rene",
+    "translation_fr": "René"
+  },
+  "firenenandriamanitra": {
+    "root": "renenandriamanitra",
+    "translation_fr": "la mère de Dieu"
+  },
+  "firenenkafa": {
+    "root": "renenkafa",
+    "translation_fr": "une autre mère"
+  },
+  "fitahiana": {
+    "root": "tahy",
+    "translation_fr": "bénédiction"
+  },
+  "fitaka": {
+    "root": "taka",
+    "translation_fr": "comprendre"
+  },
+  "fitalahoany": {
+    "root": "talahoa",
+    "translation_fr": "mendier"
+  },
+  "fitenimparitra": {
+    "root": "tenimparitra",
+    "translation_fr": "dialecte"
+  },
+  "fiteninizy": {
+    "root": "teninizy",
+    "translation_fr": "il a dit"
+  },
+  "fiteny": {
+    "root": "teny",
+    "translation_fr": "mots"
+  },
+  "fitondrampanjakana": {
+    "root": "tondrampanjaky",
+    "translation_fr": "règne"
+  },
+  "fitondrantena": {
+    "root": "tondrante",
+    "translation_fr": "tondrante"
+  },
+  "fitondrantenanareo": {
+    "root": "tondranteny",
+    "translation_fr": "instructions"
+  },
+  "fitoriana": {
+    "root": "tory",
+    "translation_fr": "dormir"
+  },
+  "fitsapana": {
+    "root": "tsapy",
+    "translation_fr": "feutre"
+  },
+  "fitsarana": {
+    "root": "tsary",
+    "translation_fr": "image"
+  },
+  "fo": {
+    "root": "fo",
+    "translation_fr": "cœur"
+  },
+  "foana": {
+    "root": "foa",
+    "translation_fr": "toujours"
+  },
+  "foko": {
+    "root": "foko",
+    "translation_fr": "tribu"
+  },
+  "fomba": {
+    "root": "fomba",
+    "translation_fr": "méthode"
+  },
+  "fontsika": {
+    "root": "fony",
+    "translation_fr": "téléphone"
+  },
+  "fotoana": {
+    "root": "foto",
+    "translation_fr": "photo"
+  },
+  "fototra": {
+    "root": "fototra",
+    "translation_fr": "basique"
+  },
+  "fotsiny": {
+    "root": "fotsy",
+    "translation_fr": "blanc"
+  },
+  "frantsa": {
+    "root": "frantsa",
+    "translation_fr": "France"
+  },
+  "frantsay": {
+    "root": "frantsay",
+    "translation_fr": "Français"
+  },
+  "fratsay": {
+    "root": "fratsay",
+    "translation_fr": "Français"
+  },
+  "gaga": {
+    "root": "ga",
+    "translation_fr": "Géorgie"
+  },
+  "galatia": {
+    "root": "galatia",
+    "translation_fr": "Galatie"
+  },
+  "gojaraty": {
+    "root": "gojaraty",
+    "translation_fr": "gujarati"
+  },
+  "hadio": {
+    "root": "dio",
+    "translation_fr": "faire le ménage"
+  },
+  "hafa": {
+    "root": "hafa",
+    "translation_fr": "différent"
+  },
+  "hafahafa": {
+    "root": "fahafa",
+    "translation_fr": "étrange"
+  },
+  "hafalianareo": {
+    "root": "faly",
+    "translation_fr": "heureux"
+  },
+  "hafatra": {
+    "root": "fatra",
+    "translation_fr": "quantité"
+  },
+  "hahafantarantsika": {
+    "root": "hafantarany",
+    "translation_fr": "il saura"
+  },
+  "hahalala": {
+    "root": "halala",
+    "translation_fr": "Je sais"
+  },
+  "haharihary": {
+    "root": "harihary",
+    "translation_fr": "évident"
+  },
+  "hahazo": {
+    "root": "hazo",
+    "translation_fr": "arbre"
+  },
+  "hahazoanareo": {
+    "root": "hazo",
+    "translation_fr": "arbre"
+  },
+  "hahazoantsika": {
+    "root": "hazoany",
+    "translation_fr": "son arbre"
+  },
+  "hahita": {
+    "root": "hita",
+    "translation_fr": "vu"
+  },
+  "haingana": {
+    "root": "ingy",
+    "translation_fr": "ici"
+  },
+  "haingo": {
+    "root": "ingo",
+    "translation_fr": "ici"
+  },
+  "haingonareotoy": {
+    "root": "ingonareotoy",
+    "translation_fr": "comme ça"
+  },
+  "haizina": {
+    "root": "izy",
+    "translation_fr": "il"
+  },
+  "haja": {
+    "root": "haja",
+    "translation_fr": "respect"
+  },
+  "hajao": {
+    "root": "jao",
+    "translation_fr": "Oui"
+  },
+  "halanizao": {
+    "root": "lanizao",
+    "translation_fr": "dépense-le"
+  },
+  "halemy": {
+    "root": "lemy",
+    "translation_fr": "faible"
+  },
+  "hamela": {
+    "root": "mela",
+    "translation_fr": "s'il te plaît"
+  },
+  "hamindra": {
+    "root": "mindra",
+    "translation_fr": "emprunter"
+  },
+  "hamita": {
+    "root": "mita",
+    "translation_fr": "mètre"
+  },
+  "hamitaka": {
+    "root": "mitaka",
+    "translation_fr": "tricherie"
+  },
+  "hampaherezana": {
+    "root": "mpaherezy",
+    "translation_fr": "homme fort"
+  },
+  "hampanginanareo": {
+    "root": "mpanginy",
+    "translation_fr": "silencieux"
+  },
+  "hampianatra": {
+    "root": "mpianatra",
+    "translation_fr": "étudiant"
+  },
+  "hanadio": {
+    "root": "nadio",
+    "translation_fr": "faire le ménage"
+  },
+  "hanaiky": {
+    "root": "naiky",
+    "translation_fr": "accepté"
+  },
+  "hanala": {
+    "root": "nala",
+    "translation_fr": "nala"
+  },
+  "hanambara": {
+    "root": "nambara",
+    "translation_fr": "déclaré"
+  },
+  "hanampy": {
+    "root": "nampy",
+    "translation_fr": "ajouté"
+  },
+  "hanana": {
+    "root": "na",
+    "translation_fr": "ou"
+  },
+  "hanananareo": {
+    "root": "nany",
+    "translation_fr": "Non"
+  },
+  "hananany": {
+    "root": "na",
+    "translation_fr": "ou"
+  },
+  "hanandratany": {
+    "root": "nandrata",
+    "translation_fr": "blesser"
+  },
+  "hanantena": {
+    "root": "nante",
+    "translation_fr": "recherché"
+  },
+  "hanantenanareo": {
+    "root": "nanteny",
+    "translation_fr": "dit"
+  },
+  "hanao": {
+    "root": "nao",
+    "translation_fr": "le vôtre"
+  },
+  "hanarahanareo": {
+    "root": "narahy",
+    "translation_fr": "suivi"
+  },
+  "hanaronana": {
+    "root": "narony",
+    "translation_fr": "couvert"
+  },
+  "hanasazy": {
+    "root": "nasazy",
+    "translation_fr": "puni"
+  },
+  "hanatanjaka": {
+    "root": "natanjaka",
+    "translation_fr": "était fort"
+  },
+  "hanatanteraka": {
+    "root": "natanteraka",
+    "translation_fr": "réalisé"
+  },
+  "handinihany": {
+    "root": "ndiniha",
+    "translation_fr": "examiner"
+  },
+  "handranto": {
+    "root": "ndranto",
+    "translation_fr": "ndranto"
+  },
+  "handray": {
+    "root": "ndray",
+    "translation_fr": "père"
+  },
+  "haneho": {
+    "root": "neho",
+    "translation_fr": "ného"
+  },
+  "hanehoana": {
+    "root": "neho",
+    "translation_fr": "ného"
+  },
+  "hangataka": {
+    "root": "ngataka",
+    "translation_fr": "demandé"
+  },
+  "haniriana": {
+    "root": "niry",
+    "translation_fr": "recherché"
+  },
+  "hanisy": {
+    "root": "nisy",
+    "translation_fr": "il y avait"
+  },
+  "hanjo": {
+    "root": "njo",
+    "translation_fr": "njo"
+  },
+  "hankalaza": {
+    "root": "nkalaza",
+    "translation_fr": "célèbre"
+  },
+  "hanohitra": {
+    "root": "nohitra",
+    "translation_fr": "protesté"
+  },
+  "hanohy": {
+    "root": "nohy",
+    "translation_fr": "pied"
+  },
+  "hanolotra": {
+    "root": "nolotra",
+    "translation_fr": "offert"
+  },
+  "hanombohanny": {
+    "root": "nombohany",
+    "translation_fr": "il a commencé"
+  },
+  "hanome": {
+    "root": "nome",
+    "translation_fr": "nom"
+  },
+  "hanomezana": {
+    "root": "nomezy",
+    "translation_fr": "nomèse"
+  },
+  "hanomezantsika": {
+    "root": "nomezany",
+    "translation_fr": "il a donné"
+  },
+  "hanompo": {
+    "root": "nompo",
+    "translation_fr": "servi"
+  },
+  "hanompoana": {
+    "root": "nompo",
+    "translation_fr": "servi"
+  },
+  "hanotanareo": {
+    "root": "noty",
+    "translation_fr": "notez"
+  },
+  "harapaka": {
+    "root": "rapaka",
+    "translation_fr": "cassé"
+  },
+  "haratsiratsinny": {
+    "root": "ratsiratsiny",
+    "translation_fr": "malheureusement"
+  },
+  "haseho": {
+    "root": "seho",
+    "translation_fr": "montrer"
+  },
+  "hasehontsika": {
+    "root": "sehony",
+    "translation_fr": "montrer"
+  },
+  "hatahotra": {
+    "root": "tahotra",
+    "translation_fr": "peur"
+  },
+  "hatanjaho": {
+    "root": "tanjaho",
+    "translation_fr": "force"
+  },
+  "hataony": {
+    "root": "tao",
+    "translation_fr": "là"
+  },
+  "hatraiza": {
+    "root": "traiza",
+    "translation_fr": "croix"
+  },
+  "hatraminny": {
+    "root": "traminy",
+    "translation_fr": "tram"
+  },
+  "hatrany": {
+    "root": "tra",
+    "translation_fr": "tra"
+  },
+  "hatsarampanahiny": {
+    "root": "tsarampanahy",
+    "translation_fr": "soins"
+  },
+  "hatsarampanahy": {
+    "root": "tsarampanahy",
+    "translation_fr": "soins"
+  },
+  "hatsaranilay": {
+    "root": "tsaranilay",
+    "translation_fr": "le juge"
+  },
+  "hebreo": {
+    "root": "hebreo",
+    "translation_fr": "hébreu"
+  },
+  "helokareo": {
+    "root": "helokareo",
+    "translation_fr": "c'est ta faute"
+  },
+  "henatra": {
+    "root": "henatra",
+    "translation_fr": "honte"
+  },
+  "henonareo": {
+    "root": "henonareo",
+    "translation_fr": "tu as entendu"
+  },
+  "henonay": {
+    "root": "henonay",
+    "translation_fr": "nous avons entendu"
+  },
+  "herinandriamanitra": {
+    "root": "herinandriamanitra",
+    "translation_fr": "Dieu semaine"
+  },
+  "hery": {
+    "root": "hery",
+    "translation_fr": "pouvoir"
+  },
+  "hiafaranireo": {
+    "root": "hiafaranireo",
+    "translation_fr": "ils finiront"
+  },
+  "hiainany": {
+    "root": "hiaina",
+    "translation_fr": "vivre"
+  },
+  "hiala": {
+    "root": "hiala",
+    "translation_fr": "partir"
+  },
+  "hiambina": {
+    "root": "hiamby",
+    "translation_fr": "attendre"
+  },
+  "hiantehitra": {
+    "root": "hiantehitra",
+    "translation_fr": "compter sur"
+  },
+  "hiatrika": {
+    "root": "hiatrika",
+    "translation_fr": "faire face"
+  },
+  "hidera": {
+    "root": "hidera",
+    "translation_fr": "louer"
+  },
+  "hifalianareo": {
+    "root": "hifaly",
+    "translation_fr": "être heureux"
+  },
+  "hifankatia": {
+    "root": "hifankatia",
+    "translation_fr": "s'aimer"
+  },
+  "hifanompoana": {
+    "root": "hifanompo",
+    "translation_fr": "se servir les uns les autres"
+  },
+  "hijaly": {
+    "root": "hijaly",
+    "translation_fr": "va souffrir"
+  },
+  "hilaza": {
+    "root": "hilaza",
+    "translation_fr": "dire"
+  },
+  "hilazana": {
+    "root": "hilazy",
+    "translation_fr": "dire"
+  },
+  "hindoa": {
+    "root": "hindoa",
+    "translation_fr": "hindou"
+  },
+  "hindoisma": {
+    "root": "hindoisma",
+    "translation_fr": "hindouisme"
+  },
+  "hino": {
+    "root": "ho",
+    "translation_fr": "à"
+  },
+  "hinoanareo": {
+    "root": "hoanareo",
+    "translation_fr": "vous les gars"
+  },
+  "hiresaka": {
+    "root": "hiresaka",
+    "translation_fr": "parler"
+  },
+  "hisaina": {
+    "root": "hisa",
+    "translation_fr": "partager"
+  },
+  "hisy": {
+    "root": "hisy",
+    "translation_fr": "il y aura"
+  },
+  "hita": {
+    "root": "hita",
+    "translation_fr": "vu"
+  },
+  "hitady": {
+    "root": "hitady",
+    "translation_fr": "chercher"
+  },
+  "hitako": {
+    "root": "hita",
+    "translation_fr": "vu"
+  },
+  "hitanareo": {
+    "root": "hity",
+    "translation_fr": "voir"
+  },
+  "hitanay": {
+    "root": "hitanay",
+    "translation_fr": "nous voyons"
+  },
+  "hitandro": {
+    "root": "hitandro",
+    "translation_fr": "garder"
+  },
+  "hitanny": {
+    "root": "hitany",
+    "translation_fr": "il a vu"
+  },
+  "hitantsika": {
+    "root": "hitany",
+    "translation_fr": "il a vu"
+  },
+  "hitany": {
+    "root": "hita",
+    "translation_fr": "vu"
+  },
+  "hiteny": {
+    "root": "hite",
+    "translation_fr": "voir"
+  },
+  "hitombo": {
+    "root": "hitombo",
+    "translation_fr": "grandir"
+  },
+  "hitondra": {
+    "root": "hitondra",
+    "translation_fr": "apporter"
+  },
+  "hitondrany": {
+    "root": "hitondra",
+    "translation_fr": "apporter"
+  },
+  "hitranga": {
+    "root": "hitranga",
+    "translation_fr": "cela arrivera"
+  },
+  "hitsara": {
+    "root": "hitsara",
+    "translation_fr": "juger"
+  },
+  "ho": {
+    "root": "ho",
+    "translation_fr": "à"
+  },
+  "hoatranareo": {
+    "root": "hoatry",
+    "translation_fr": "comme"
+  },
+  "hoatrani": {
+    "root": "hoatrany",
+    "translation_fr": "Par exemple"
+  },
+  "hoatranilay": {
+    "root": "hoatranilay",
+    "translation_fr": "comme ça"
+  },
+  "hoatranny": {
+    "root": "hoatrany",
+    "translation_fr": "Par exemple"
+  },
+  "hoatrazy": {
+    "root": "hoatrazy",
+    "translation_fr": "venir"
+  },
+  "hoatrizany": {
+    "root": "hoatriza",
+    "translation_fr": "jusqu'à maintenant"
+  },
+  "hoderaina": {
+    "root": "hodera",
+    "translation_fr": "louer"
+  },
+  "hodinihina": {
+    "root": "hodinihy",
+    "translation_fr": "considérer"
+  },
+  "hoe": {
+    "root": "hoe",
+    "translation_fr": "dire"
+  },
+  "hofafazana": {
+    "root": "hofafazy",
+    "translation_fr": "saupoudrer"
+  },
+  "homemboninahitra": {
+    "root": "hemboninahitra",
+    "translation_fr": "il est fier"
+  },
+  "homenandriamanitra": {
+    "root": "henandriamanitra",
+    "translation_fr": "Que Dieu te bénisse"
+  },
+  "hono": {
+    "root": "hono",
+    "translation_fr": "on dit"
+  },
+  "hosoratana": {
+    "root": "hosoraty",
+    "translation_fr": "écrire"
+  },
+  "hoy": {
+    "root": "hoy",
+    "translation_fr": "dit"
+  },
+  "ianao": {
+    "root": "ianao",
+    "translation_fr": "toi"
+  },
+  "ianareo": {
+    "root": "ianareo",
+    "translation_fr": "toi"
+  },
+  "ifanadiana": {
+    "root": "ifanady",
+    "translation_fr": "se battre"
+  },
+  "ihany": {
+    "root": "iha",
+    "translation_fr": "hein"
+  },
+  "ihosy": {
+    "root": "ihosy",
+    "translation_fr": "ihosi"
+  },
+  "ijalianareo": {
+    "root": "ijaly",
+    "translation_fr": "souffrir"
+  },
+  "ikongo": {
+    "root": "ikongo",
+    "translation_fr": "ikongo"
+  },
+  "ilay": {
+    "root": "ilay",
+    "translation_fr": "celui"
+  },
+  "ilazany": {
+    "root": "ilaza",
+    "translation_fr": "dire"
+  },
+  "imasonandriamanitra": {
+    "root": "imasonandriamanitra",
+    "translation_fr": "Que Dieu te bénisse"
+  },
+  "india": {
+    "root": "india",
+    "translation_fr": "Inde"
+  },
+  "indiana": {
+    "root": "indy",
+    "translation_fr": "ici"
+  },
+  "indonesia": {
+    "root": "indonesia",
+    "translation_fr": "Indonésie"
+  },
+  "indraindray": {
+    "root": "indraindray",
+    "translation_fr": "parfois"
+  },
+  "indray": {
+    "root": "indray",
+    "translation_fr": "encore"
+  },
+  "indrindra": {
+    "root": "indrindra",
+    "translation_fr": "en particulier"
+  },
+  "indônezia": {
+    "root": "indônezia",
+    "translation_fr": "Indonésie"
+  },
+  "indôneziana": {
+    "root": "indônezy",
+    "translation_fr": "Indonésie"
+  },
+  "inona": {
+    "root": "ino",
+    "translation_fr": "ino"
+  },
+  "intsony": {
+    "root": "intso",
+    "translation_fr": "c'est ça"
+  },
+  "io": {
+    "root": "io",
+    "translation_fr": "ce"
+  },
+  "iraisana": {
+    "root": "iraisy",
+    "translation_fr": "ensemble"
+  },
+  "iray": {
+    "root": "iray",
+    "translation_fr": "un"
+  },
+  "ireny": {
+    "root": "ire",
+    "translation_fr": "colère"
+  },
+  "ireo": {
+    "root": "ireo",
+    "translation_fr": "ceux"
+  },
+  "ireto": {
+    "root": "ireto",
+    "translation_fr": "ces"
+  },
+  "isa": {
+    "root": "isa",
+    "translation_fr": "Nombres"
+  },
+  "isika": {
+    "root": "isika",
+    "translation_fr": "nous"
+  },
+  "iza": {
+    "root": "iza",
+    "translation_fr": "OMS"
+  },
+  "izahay": {
+    "root": "izahay",
+    "translation_fr": "nous"
+  },
+  "izaho": {
+    "root": "izaho",
+    "translation_fr": "moi"
+  },
+  "izany": {
+    "root": "iza",
+    "translation_fr": "OMS"
+  },
+  "izao": {
+    "root": "izao",
+    "translation_fr": "maintenant"
+  },
+  "izay": {
+    "root": "izay",
+    "translation_fr": "que"
+  },
+  "izy": {
+    "root": "izy",
+    "translation_fr": "il"
+  },
+  "japôney": {
+    "root": "japôney",
+    "translation_fr": "japonais"
+  },
+  "jesosy": {
+    "root": "jesosy",
+    "translation_fr": "Jésus"
+  },
+  "jeôgrafia": {
+    "root": "jeôgrafia",
+    "translation_fr": "géographie"
+  },
+  "jeôlôjia": {
+    "root": "jeôlôjia",
+    "translation_fr": "géologie"
+  },
+  "jiosy": {
+    "root": "jiosy",
+    "translation_fr": "juif"
+  },
+  "ka": {
+    "root": "ka",
+    "translation_fr": "donc"
+  },
+  "kaina": {
+    "root": "kay",
+    "translation_fr": "ok"
+  },
+  "kanefa": {
+    "root": "kanefa",
+    "translation_fr": "cependant"
+  },
+  "kapadokia": {
+    "root": "kapadokia",
+    "translation_fr": "Cappadoce"
+  },
+  "karaiba": {
+    "root": "karaiba",
+    "translation_fr": "Caraïbes"
+  },
+  "karazanolona": {
+    "root": "karazanolo",
+    "translation_fr": "espèces"
+  },
+  "karàna": {
+    "root": "karà",
+    "translation_fr": "carte"
+  },
+  "katôlika": {
+    "root": "katôlika",
+    "translation_fr": "catholique"
+  },
+  "koa": {
+    "root": "koa",
+    "translation_fr": "aussi"
+  },
+  "kokoa": {
+    "root": "kokoa",
+    "translation_fr": "plus"
+  },
+  "kolontsaina": {
+    "root": "kolontsa",
+    "translation_fr": "culture"
+  },
+  "kosa": {
+    "root": "kosa",
+    "translation_fr": "plutôt"
+  },
+  "kristiana": {
+    "root": "kristy",
+    "translation_fr": "Christ"
+  },
+  "kristianina": {
+    "root": "kristiany",
+    "translation_fr": "chrétien"
+  },
+  "kômôriana": {
+    "root": "kômôry",
+    "translation_fr": "Comores"
+  },
+  "kômôro": {
+    "root": "kômôro",
+    "translation_fr": "Comores"
+  },
+  "la": {
+    "root": "la",
+    "translation_fr": "là"
+  },
+  "lafiny": {
+    "root": "lafy",
+    "translation_fr": "côté"
+  },
+  "lahitokana": {
+    "root": "lahitoky",
+    "translation_fr": "sûr"
+  },
+  "lainga": {
+    "root": "lainga",
+    "translation_fr": "mensonge"
+  },
+  "lakana": {
+    "root": "laky",
+    "translation_fr": "d'accord"
+  },
+  "lalina": {
+    "root": "laly",
+    "translation_fr": "laly"
+  },
+  "lalàna": {
+    "root": "lalà",
+    "translation_fr": "loi"
+  },
+  "lasa": {
+    "root": "lasa",
+    "translation_fr": "passé"
+  },
+  "latina": {
+    "root": "laty",
+    "translation_fr": "en retard"
+  },
+  "latsaky": {
+    "root": "latsaky",
+    "translation_fr": "moins"
+  },
+  "lazaina": {
+    "root": "laza",
+    "translation_fr": "notoriété"
+  },
+  "lazainandriamanitra": {
+    "root": "lazainandriamanitra",
+    "translation_fr": "Dieu a dit"
+  },
+  "lazainareo": {
+    "root": "laza",
+    "translation_fr": "notoriété"
+  },
+  "lazainay": {
+    "root": "lazainay",
+    "translation_fr": "nous disons"
+  },
+  "lazainny": {
+    "root": "lazainy",
+    "translation_fr": "il dit"
+  },
+  "lehibe": {
+    "root": "lehibe",
+    "translation_fr": "grand"
+  },
+  "lehibenny": {
+    "root": "lehibeny",
+    "translation_fr": "chef"
+  },
+  "lehilahy": {
+    "root": "lehilahy",
+    "translation_fr": "homme"
+  },
+  "lela": {
+    "root": "lela",
+    "translation_fr": "langue"
+  },
+  "lelany": {
+    "root": "lela",
+    "translation_fr": "langue"
+  },
+  "lemaka": {
+    "root": "lemaka",
+    "translation_fr": "plaine"
+  },
+  "liona": {
+    "root": "lio",
+    "translation_fr": "lio"
+  },
+  "lo": {
+    "root": "lo",
+    "translation_fr": "pourri"
+  },
+  "loatra": {
+    "root": "loatra",
+    "translation_fr": "trop"
+  },
+  "loto": {
+    "root": "loto",
+    "translation_fr": "saleté"
+  },
+  "madagasikara": {
+    "root": "madagasikara",
+    "translation_fr": "Madagascar"
+  },
+  "madio": {
+    "root": "madio",
+    "translation_fr": "faire le ménage"
+  },
+  "madiomamonjy": {
+    "root": "madiomamonjy",
+    "translation_fr": "innocent"
+  },
+  "mafana": {
+    "root": "mafy",
+    "translation_fr": "dur"
+  },
+  "mafy": {
+    "root": "mafy",
+    "translation_fr": "dur"
+  },
+  "maha": {
+    "root": "maha",
+    "translation_fr": "maha"
+  },
+  "mahafaly": {
+    "root": "mahafaly",
+    "translation_fr": "heureux"
+  },
+  "mahafaty": {
+    "root": "mahafaty",
+    "translation_fr": "mortel"
+  },
+  "mahafinaritra": {
+    "root": "mahafinaritra",
+    "translation_fr": "bon"
+  },
+  "mahafoy": {
+    "root": "mahafoy",
+    "translation_fr": "abandonner"
+  },
+  "mahagaga": {
+    "root": "mahagaga",
+    "translation_fr": "incroyable"
+  },
+  "mahajanga": {
+    "root": "mahajanga",
+    "translation_fr": "respectable"
+  },
+  "mahalala": {
+    "root": "mahalala",
+    "translation_fr": "savoir"
+  },
+  "mahanoro": {
+    "root": "mahanoro",
+    "translation_fr": "instructif"
+  },
+  "maharikoriko": {
+    "root": "maharikory",
+    "translation_fr": "dégoûtant"
+  },
+  "maharitra": {
+    "root": "maharitra",
+    "translation_fr": "permanent"
+  },
+  "mahasamihafa": {
+    "root": "mahasamihafa",
+    "translation_fr": "différence"
+  },
+  "mahasoa": {
+    "root": "mahasoa",
+    "translation_fr": "utile"
+  },
+  "mahatafintohina": {
+    "root": "mahatafintohy",
+    "translation_fr": "choquant"
+  },
+  "mahazo": {
+    "root": "mahazo",
+    "translation_fr": "comprendre"
+  },
+  "mahery": {
+    "root": "mahery",
+    "translation_fr": "puissant"
+  },
+  "mahiomby": {
+    "root": "mahiomby",
+    "translation_fr": "travailler dur"
+  },
+  "mahita": {
+    "root": "mahita",
+    "translation_fr": "voir"
+  },
+  "mailo": {
+    "root": "mailo",
+    "translation_fr": "alerte"
+  },
+  "maina": {
+    "root": "may",
+    "translation_fr": "peut"
+  },
+  "maintirano": {
+    "root": "maintirano",
+    "translation_fr": "maintenir"
+  },
+  "makoa": {
+    "root": "makoa",
+    "translation_fr": "donc"
+  },
+  "malagasy": {
+    "root": "malagasy",
+    "translation_fr": "malgache"
+  },
+  "malala": {
+    "root": "malala",
+    "translation_fr": "chéri"
+  },
+  "malalako": {
+    "root": "malala",
+    "translation_fr": "chéri"
+  },
+  "malazo": {
+    "root": "malazo",
+    "translation_fr": "flétri"
+  },
+  "malemy": {
+    "root": "malemy",
+    "translation_fr": "faible"
+  },
+  "mamaly": {
+    "root": "mamaly",
+    "translation_fr": "répondre"
+  },
+  "mametraka": {
+    "root": "mametraka",
+    "translation_fr": "mettre"
+  },
+  "mamirapiratra": {
+    "root": "mamirapiratra",
+    "translation_fr": "brillant"
+  },
+  "mamitatena": {
+    "root": "mamitate",
+    "translation_fr": "tromper"
+  },
+  "mampamangy": {
+    "root": "amangy",
+    "translation_fr": "Soyez silencieux"
+  },
+  "mampanahy": {
+    "root": "anahy",
+    "translation_fr": "frère"
+  },
+  "mampianatra": {
+    "root": "ianatra",
+    "translation_fr": "apprendre"
+  },
+  "mampianjera": {
+    "root": "ianjera",
+    "translation_fr": "tomber"
+  },
+  "mampiantrano": {
+    "root": "iantrano",
+    "translation_fr": "maison"
+  },
+  "mampiasa": {
+    "root": "iasa",
+    "translation_fr": "travail"
+  },
+  "mampihatra": {
+    "root": "ihatra",
+    "translation_fr": "appliquer"
+  },
+  "mampikony": {
+    "root": "iko",
+    "translation_fr": "c'est"
+  },
+  "mampirisika": {
+    "root": "irisika",
+    "translation_fr": "risqué"
+  },
+  "manadio": {
+    "root": "dio",
+    "translation_fr": "faire le ménage"
+  },
+  "manahaka": {
+    "root": "haka",
+    "translation_fr": "prendre"
+  },
+  "manaiky": {
+    "root": "iky",
+    "translation_fr": "je"
+  },
+  "manakaiky": {
+    "root": "kaiky",
+    "translation_fr": "mordre"
+  },
+  "manakantsakana": {
+    "root": "kantsaky",
+    "translation_fr": "canne à sucre"
+  },
+  "manakara": {
+    "root": "kara",
+    "translation_fr": "carte"
+  },
+  "manamasìna": {
+    "root": "masìy",
+    "translation_fr": "mais"
+  },
+  "manambanimbany": {
+    "root": "mbanimba",
+    "translation_fr": "nocif"
+  },
+  "manambony": {
+    "root": "mbo",
+    "translation_fr": "mbo"
+  },
+  "manameloka": {
+    "root": "meloka",
+    "translation_fr": "coupable"
+  },
+  "manampatrana": {
+    "root": "mpatry",
+    "translation_fr": "somnolent"
+  },
+  "manampinoana": {
+    "root": "mpino",
+    "translation_fr": "croyants"
+  },
+  "manampy": {
+    "root": "mpy",
+    "translation_fr": "assez"
+  },
+  "manana": {
+    "root": "ana",
+    "translation_fr": "Ana"
+  },
+  "manandrazana": {
+    "root": "drazy",
+    "translation_fr": "dingue"
+  },
+  "mananjary": {
+    "root": "jary",
+    "translation_fr": "Jary"
+  },
+  "manankatao": {
+    "root": "katao",
+    "translation_fr": "dire"
+  },
+  "manantena": {
+    "root": "tena",
+    "translation_fr": "vraiment"
+  },
+  "manantitra": {
+    "root": "titra",
+    "translation_fr": "titre"
+  },
+  "manao": {
+    "root": "manao",
+    "translation_fr": "faire"
+  },
+  "manaraka": {
+    "root": "raka",
+    "translation_fr": "raka"
+  },
+  "manarampo": {
+    "root": "rampo",
+    "translation_fr": "rampe"
+  },
+  "manarona": {
+    "root": "rona",
+    "translation_fr": "Rona"
+  },
+  "manatona": {
+    "root": "tona",
+    "translation_fr": "tonnes"
+  },
+  "mandainga": {
+    "root": "dainga",
+    "translation_fr": "mensonge"
+  },
+  "mandala": {
+    "root": "dala",
+    "translation_fr": "route"
+  },
+  "mandalo": {
+    "root": "dalo",
+    "translation_fr": "passé"
+  },
+  "mandeha": {
+    "root": "deha",
+    "translation_fr": "allons-y"
+  },
+  "mandehandeha": {
+    "root": "dehandeha",
+    "translation_fr": "allons-y"
+  },
+  "mandika": {
+    "root": "dika",
+    "translation_fr": "copie"
+  },
+  "mandrakizay": {
+    "root": "drakizay",
+    "translation_fr": "pour toujours"
+  },
+  "mandray": {
+    "root": "dray",
+    "translation_fr": "père"
+  },
+  "mandresy": {
+    "root": "dresy",
+    "translation_fr": "cerises"
+  },
+  "mandritra": {
+    "root": "dritra",
+    "translation_fr": "sec"
+  },
+  "mandritsara": {
+    "root": "dritsara",
+    "translation_fr": "droite"
+  },
+  "mandroaka": {
+    "root": "droaka",
+    "translation_fr": "expulsion"
+  },
+  "mandà": {
+    "root": "mandà",
+    "translation_fr": "refuser"
+  },
+  "maneho": {
+    "root": "eho",
+    "translation_fr": "là"
+  },
+  "maneke": {
+    "root": "eke",
+    "translation_fr": "Oui"
+  },
+  "manendrikendrika": {
+    "root": "endrikendrika",
+    "translation_fr": "affronter"
+  },
+  "manetre": {
+    "root": "etre",
+    "translation_fr": "éther"
+  },
+  "mangataka": {
+    "root": "gataka",
+    "translation_fr": "chat"
+  },
+  "mangoraka": {
+    "root": "goraka",
+    "translation_fr": "arrogant"
+  },
+  "mangoro": {
+    "root": "goro",
+    "translation_fr": "goro"
+  },
+  "mania": {
+    "root": "mania",
+    "translation_fr": "fou"
+  },
+  "manjakandriana": {
+    "root": "jakandry",
+    "translation_fr": "jakandri"
+  },
+  "manjo": {
+    "root": "manjo",
+    "translation_fr": "ça arrive"
+  },
+  "mankahala": {
+    "root": "kahala",
+    "translation_fr": "comme"
+  },
+  "manodidina": {
+    "root": "odidy",
+    "translation_fr": "magie"
+  },
+  "manohana": {
+    "root": "oha",
+    "translation_fr": "Par exemple"
+  },
+  "manohitra": {
+    "root": "ohitra",
+    "translation_fr": "comptoir"
+  },
+  "manokana": {
+    "root": "oka",
+    "translation_fr": "d'accord"
+  },
+  "manomboka": {
+    "root": "omboka",
+    "translation_fr": "taureau"
+  },
+  "manompo": {
+    "root": "ompo",
+    "translation_fr": "gifler"
+  },
+  "manonona": {
+    "root": "ono",
+    "translation_fr": "oh"
+  },
+  "manontany": {
+    "root": "onta",
+    "translation_fr": "onta"
+  },
+  "manontolo": {
+    "root": "ontolo",
+    "translation_fr": "monde"
+  },
+  "manoratra": {
+    "root": "oratra",
+    "translation_fr": "en écrivant"
+  },
+  "manota": {
+    "root": "ota",
+    "translation_fr": "péché"
+  },
+  "manàna": {
+    "root": "àna",
+    "translation_fr": "Oui"
+  },
+  "marco": {
+    "root": "marco",
+    "translation_fr": "Marque"
+  },
+  "marihina": {
+    "root": "marihy",
+    "translation_fr": "note"
+  },
+  "marina": {
+    "root": "mary",
+    "translation_fr": "Marie"
+  },
+  "marka": {
+    "root": "marka",
+    "translation_fr": "marque"
+  },
+  "maro": {
+    "root": "maro",
+    "translation_fr": "beaucoup"
+  },
+  "maroantsetra": {
+    "root": "maroantsetra",
+    "translation_fr": "patient"
+  },
+  "maromaro": {
+    "root": "maro",
+    "translation_fr": "beaucoup"
+  },
+  "maroserana": {
+    "root": "marosery",
+    "translation_fr": "maroquinerie"
+  },
+  "masikoro": {
+    "root": "masikoro",
+    "translation_fr": "masikoro"
+  },
+  "masina": {
+    "root": "masy",
+    "translation_fr": "masse"
+  },
+  "maso": {
+    "root": "maso",
+    "translation_fr": "œil"
+  },
+  "masonay": {
+    "root": "masonay",
+    "translation_fr": "nos yeux"
+  },
+  "masoni": {
+    "root": "masony",
+    "translation_fr": "ses yeux"
+  },
+  "masony": {
+    "root": "maso",
+    "translation_fr": "œil"
+  },
+  "matahora": {
+    "root": "matahora",
+    "translation_fr": "avoir peur"
+  },
+  "matahotra": {
+    "root": "matahotra",
+    "translation_fr": "effrayé"
+  },
+  "matanjaka": {
+    "root": "matanjaka",
+    "translation_fr": "fort"
+  },
+  "matoa": {
+    "root": "matoa",
+    "translation_fr": "marteau"
+  },
+  "maty": {
+    "root": "maty",
+    "translation_fr": "décédé"
+  },
+  "mayotte": {
+    "root": "mayotte",
+    "translation_fr": "Mayotte"
+  },
+  "mba": {
+    "root": "mba",
+    "translation_fr": "mba"
+  },
+  "mbola": {
+    "root": "mbola",
+    "translation_fr": "encore"
+  },
+  "menatra": {
+    "root": "menatra",
+    "translation_fr": "honteux"
+  },
+  "mendripitokisana": {
+    "root": "mendripitokisy",
+    "translation_fr": "c'est important"
+  },
+  "merina": {
+    "root": "mery",
+    "translation_fr": "Méri"
+  },
+  "mety": {
+    "root": "mety",
+    "translation_fr": "droite"
+  },
+  "mey": {
+    "root": "mey",
+    "translation_fr": "Peut"
+  },
+  "miady": {
+    "root": "ady",
+    "translation_fr": "guerre"
+  },
+  "miafina": {
+    "root": "afy",
+    "translation_fr": "feu"
+  },
+  "miahy": {
+    "root": "ahy",
+    "translation_fr": "moi"
+  },
+  "miaiky": {
+    "root": "aiky",
+    "translation_fr": "d'accord"
+  },
+  "miaina": {
+    "root": "aina",
+    "translation_fr": "vie"
+  },
+  "miala": {
+    "root": "ala",
+    "translation_fr": "forêt"
+  },
+  "mialoha": {
+    "root": "aloha",
+    "translation_fr": "d'abord"
+  },
+  "mianatra": {
+    "root": "anatra",
+    "translation_fr": "discipline"
+  },
+  "miandany": {
+    "root": "anda",
+    "translation_fr": "allez"
+  },
+  "miangatra": {
+    "root": "angatra",
+    "translation_fr": "angatra"
+  },
+  "miaraha": {
+    "root": "araha",
+    "translation_fr": "suivre"
+  },
+  "miarahaba": {
+    "root": "arahaba",
+    "translation_fr": "bravo"
+  },
+  "miaraka": {
+    "root": "araka",
+    "translation_fr": "selon"
+  },
+  "miaramihazakazaka": {
+    "root": "aramihazakazaka",
+    "translation_fr": "courir ensemble"
+  },
+  "miaritra": {
+    "root": "aritra",
+    "translation_fr": "Artira"
+  },
+  "miaro": {
+    "root": "aro",
+    "translation_fr": "aro"
+  },
+  "midadasika": {
+    "root": "dadasika",
+    "translation_fr": "notre père"
+  },
+  "midongy": {
+    "root": "dongy",
+    "translation_fr": "Âne"
+  },
+  "mierona": {
+    "root": "ero",
+    "translation_fr": "là"
+  },
+  "miezaha": {
+    "root": "ezaha",
+    "translation_fr": "essayer"
+  },
+  "miezaka": {
+    "root": "ezaka",
+    "translation_fr": "effort"
+  },
+  "mifalia": {
+    "root": "falia",
+    "translation_fr": "heureux"
+  },
+  "mifampiarahabà": {
+    "root": "fampiarahabà",
+    "translation_fr": "Félicitations"
+  },
+  "mifanakaiky": {
+    "root": "fanakaiky",
+    "translation_fr": "proximité"
+  },
+  "mifanaraka": {
+    "root": "fanaraka",
+    "translation_fr": "suivant"
+  },
+  "mifandimby": {
+    "root": "fandimby",
+    "translation_fr": "Succession"
+  },
+  "mifandray": {
+    "root": "fandray",
+    "translation_fr": "récepteur"
+  },
+  "mifangaro": {
+    "root": "fangaro",
+    "translation_fr": "mélange"
+  },
+  "mifankahazo": {
+    "root": "fankahazo",
+    "translation_fr": "compréhension"
+  },
+  "mifankatia": {
+    "root": "fankatia",
+    "translation_fr": "amour"
+  },
+  "mifehy": {
+    "root": "fehy",
+    "translation_fr": "contrôle"
+  },
+  "mifototra": {
+    "root": "fototra",
+    "translation_fr": "basique"
+  },
+  "mihaino": {
+    "root": "haino",
+    "translation_fr": "écouter"
+  },
+  "mihalasa": {
+    "root": "halasa",
+    "translation_fr": "disparu"
+  },
+  "mihintsana": {
+    "root": "hintsy",
+    "translation_fr": "pourquoi ?"
+  },
+  "mihoapefy": {
+    "root": "hoapefy",
+    "translation_fr": "sera clôturé"
+  },
+  "mihoatra": {
+    "root": "hoatra",
+    "translation_fr": "comme si"
+  },
+  "miisa": {
+    "root": "isa",
+    "translation_fr": "Nombres"
+  },
+  "mijaly": {
+    "root": "jaly",
+    "translation_fr": "Jaly"
+  },
+  "mijoro": {
+    "root": "joro",
+    "translation_fr": "coin"
+  },
+  "mila": {
+    "root": "mila",
+    "translation_fr": "Je voudrais"
+  },
+  "milaza": {
+    "root": "laza",
+    "translation_fr": "notoriété"
+  },
+  "mimenomenona": {
+    "root": "meno",
+    "translation_fr": "Non"
+  },
+  "mino": {
+    "root": "mo",
+    "translation_fr": "mo"
+  },
+  "miomana": {
+    "root": "oma",
+    "translation_fr": "d'accord"
+  },
+  "miorina": {
+    "root": "ory",
+    "translation_fr": "misérable"
+  },
+  "mipaka": {
+    "root": "paka",
+    "translation_fr": "paquet"
+  },
+  "miparitaka": {
+    "root": "paritaka",
+    "translation_fr": "dispersé"
+  },
+  "mipetraka": {
+    "root": "petraka",
+    "translation_fr": "asseyez-vous"
+  },
+  "miraisa": {
+    "root": "raisa",
+    "translation_fr": "prends-le"
+  },
+  "mirary": {
+    "root": "rary",
+    "translation_fr": "malade"
+  },
+  "misaina": {
+    "root": "say",
+    "translation_fr": "dire"
+  },
+  "miseho": {
+    "root": "seho",
+    "translation_fr": "montrer"
+  },
+  "misitraka": {
+    "root": "sitraka",
+    "translation_fr": "s'il te plaît"
+  },
+  "misiônera": {
+    "root": "siônera",
+    "translation_fr": "missionnaire"
+  },
+  "misongadina": {
+    "root": "songady",
+    "translation_fr": "célibataire"
+  },
+  "missionary": {
+    "root": "ssionary",
+    "translation_fr": "missionnaire"
+  },
+  "misy": {
+    "root": "misy",
+    "translation_fr": "il y a"
+  },
+  "mitady": {
+    "root": "tady",
+    "translation_fr": "chaîne"
+  },
+  "mitafia": {
+    "root": "tafia",
+    "translation_fr": "vêtements"
+  },
+  "mitandrema": {
+    "root": "tandrema",
+    "translation_fr": "sois prudent"
+  },
+  "mitandrina": {
+    "root": "tandry",
+    "translation_fr": "corne"
+  },
+  "mitebiteby": {
+    "root": "tebiteby",
+    "translation_fr": "anxiété"
+  },
+  "miteny": {
+    "root": "teny",
+    "translation_fr": "mots"
+  },
+  "mitoetra": {
+    "root": "toetra",
+    "translation_fr": "personnage"
+  },
+  "mitsahatra": {
+    "root": "tsahatra",
+    "translation_fr": "arrêt"
+  },
+  "mitsara": {
+    "root": "tsara",
+    "translation_fr": "bien"
+  },
+  "mitsinjo": {
+    "root": "tsinjo",
+    "translation_fr": "voir"
+  },
+  "moa": {
+    "root": "moa",
+    "translation_fr": "donc"
+  },
+  "modely": {
+    "root": "modely",
+    "translation_fr": "modèle"
+  },
+  "mogadiscio": {
+    "root": "mogadiscio",
+    "translation_fr": "Mogadiscio"
+  },
+  "molony": {
+    "root": "molo",
+    "translation_fr": "bouche"
+  },
+  "momba": {
+    "root": "momba",
+    "translation_fr": "chauve"
+  },
+  "monina": {
+    "root": "mony",
+    "translation_fr": "acné"
+  },
+  "moramanga": {
+    "root": "moramanga",
+    "translation_fr": "facile"
+  },
+  "morombe": {
+    "root": "morombe",
+    "translation_fr": "Morombe"
+  },
+  "morontsiraka": {
+    "root": "morontsiraka",
+    "translation_fr": "côte"
+  },
+  "mozilmana": {
+    "root": "mozilmy",
+    "translation_fr": "musulman"
+  },
+  "mpaminany": {
+    "root": "mpamina",
+    "translation_fr": "prophète"
+  },
+  "mpamitaka": {
+    "root": "mpamitaka",
+    "translation_fr": "trompeur"
+  },
+  "mpamonjy": {
+    "root": "mpamonjy",
+    "translation_fr": "Sauveur"
+  },
+  "mpamono": {
+    "root": "mpamono",
+    "translation_fr": "meurtrier"
+  },
+  "mpamorona": {
+    "root": "mpamoro",
+    "translation_fr": "diseuse de bonne aventure"
+  },
+  "mpanampy": {
+    "root": "mpanampy",
+    "translation_fr": "assistant"
+  },
+  "mpanao": {
+    "root": "mpanao",
+    "translation_fr": "auteur"
+  },
+  "mpanaradia": {
+    "root": "mpanaradia",
+    "translation_fr": "compagnon"
+  },
+  "mpandainga": {
+    "root": "mpandainga",
+    "translation_fr": "un menteur"
+  },
+  "mpandraharaha": {
+    "root": "mpandraharaha",
+    "translation_fr": "homme d'affaires"
+  },
+  "mpangalatra": {
+    "root": "mpangalatra",
+    "translation_fr": "voleur"
+  },
+  "mpanjaka": {
+    "root": "mpanjaka",
+    "translation_fr": "roi"
+  },
+  "mpanjakazaka": {
+    "root": "mpanjakazaka",
+    "translation_fr": "tyrannique"
+  },
+  "mpanome": {
+    "root": "mpanome",
+    "translation_fr": "donneur"
+  },
+  "mpanompo": {
+    "root": "mpanompo",
+    "translation_fr": "serviteur"
+  },
+  "mpanota": {
+    "root": "mpanota",
+    "translation_fr": "pécheur"
+  },
+  "mpianatra": {
+    "root": "mpianatra",
+    "translation_fr": "étudiant"
+  },
+  "mpiandraikitra": {
+    "root": "mpiandraikitra",
+    "translation_fr": "surveillant"
+  },
+  "mpidikiditra": {
+    "root": "mpidikiditra",
+    "translation_fr": "intrus"
+  },
+  "mpifindra": {
+    "root": "mpifindra",
+    "translation_fr": "déménageur"
+  },
+  "mpino": {
+    "root": "mpino",
+    "translation_fr": "croyants"
+  },
+  "mpirahalahy": {
+    "root": "mpirahalahy",
+    "translation_fr": "frères"
+  },
+  "mpisorona": {
+    "root": "mpisoro",
+    "translation_fr": "prêtre"
+  },
+  "mpitsara": {
+    "root": "mpitsara",
+    "translation_fr": "Juge"
+  },
+  "mponina": {
+    "root": "mpony",
+    "translation_fr": "résidents"
+  },
+  "na": {
+    "root": "na",
+    "translation_fr": "ou"
+  },
+  "nafangarony": {
+    "root": "nafangaro",
+    "translation_fr": "mélangé"
+  },
+  "nahafantatra": {
+    "root": "nahafantatra",
+    "translation_fr": "savait"
+  },
+  "nahafoy": {
+    "root": "nahafoy",
+    "translation_fr": "abandonné"
+  },
+  "nahalala": {
+    "root": "nahalala",
+    "translation_fr": "savait"
+  },
+  "naharesy": {
+    "root": "naharesy",
+    "translation_fr": "gagné"
+  },
+  "naharihary": {
+    "root": "naharihary",
+    "translation_fr": "exposé"
+  },
+  "naharitra": {
+    "root": "naharitra",
+    "translation_fr": "a duré"
+  },
+  "nahatonga": {
+    "root": "nahatonga",
+    "translation_fr": "causé"
+  },
+  "nahazo": {
+    "root": "nahazo",
+    "translation_fr": "reçu"
+  },
+  "nahita": {
+    "root": "nahita",
+    "translation_fr": "scie"
+  },
+  "najoronolombelona": {
+    "root": "najoronolombelo",
+    "translation_fr": "najoronolombelo"
+  },
+  "nalahelo": {
+    "root": "nalahelo",
+    "translation_fr": "était triste"
+  },
+  "nalefa": {
+    "root": "nalefa",
+    "translation_fr": "envoyé"
+  },
+  "namantsika": {
+    "root": "namany",
+    "translation_fr": "amis"
+  },
+  "nambara": {
+    "root": "nambara",
+    "translation_fr": "déclaré"
+  },
+  "namboarina": {
+    "root": "namboary",
+    "translation_fr": "réparé"
+  },
+  "naminany": {
+    "root": "namina",
+    "translation_fr": "prophétisé"
+  },
+  "namindrana": {
+    "root": "namindry",
+    "translation_fr": "pressé"
+  },
+  "namono": {
+    "root": "namono",
+    "translation_fr": "tué"
+  },
+  "namonoany": {
+    "root": "namonoa",
+    "translation_fr": "tué"
+  },
+  "namotopototra": {
+    "root": "namotopototra",
+    "translation_fr": "enquêté"
+  },
+  "nampanantenainy": {
+    "root": "nampanantenay",
+    "translation_fr": "nous avons promis"
+  },
+  "nampianarini": {
+    "root": "nampianariny",
+    "translation_fr": "il a enseigné"
+  },
+  "nampianarinio": {
+    "root": "nampianarinio",
+    "translation_fr": "tu as enseigné"
+  },
+  "nampiasainandriamanitra": {
+    "root": "nampiasainandriamanitra",
+    "translation_fr": "utilisé par Dieu"
+  },
+  "nampisehoana": {
+    "root": "nampiseho",
+    "translation_fr": "a montré"
+  },
+  "nanadihady": {
+    "root": "nanadihady",
+    "translation_fr": "enquêté"
+  },
+  "nanadio": {
+    "root": "nanadio",
+    "translation_fr": "nettoyé"
+  },
+  "nanafahana": {
+    "root": "nanafahy",
+    "translation_fr": "béni"
+  },
+  "nanaiky": {
+    "root": "nanaiky",
+    "translation_fr": "accepté"
+  },
+  "nanambanimbany": {
+    "root": "nanambanimba",
+    "translation_fr": "miné"
+  },
+  "nanambara": {
+    "root": "nanambara",
+    "translation_fr": "déclaré"
+  },
+  "nanana": {
+    "root": "nany",
+    "translation_fr": "Non"
+  },
+  "nanananareo": {
+    "root": "nanany",
+    "translation_fr": "avait"
+  },
+  "nanangana": {
+    "root": "nanangy",
+    "translation_fr": "demandé"
+  },
+  "nananganana": {
+    "root": "nanangany",
+    "translation_fr": "soulevé"
+  },
+  "nanankina": {
+    "root": "nananky",
+    "translation_fr": "dépendait de"
+  },
+  "nanantena": {
+    "root": "nanante",
+    "translation_fr": "espéré"
+  },
+  "nanao": {
+    "root": "nanao",
+    "translation_fr": "a fait"
+  },
+  "nanaraka": {
+    "root": "nanaraka",
+    "translation_fr": "suivi"
+  },
+  "nanarampo": {
+    "root": "nanarampo",
+    "translation_fr": "couvert"
+  },
+  "nanary": {
+    "root": "nanary",
+    "translation_fr": "vomi"
+  },
+  "nandeha": {
+    "root": "nandeha",
+    "translation_fr": "est allé"
+  },
+  "nandrahona": {
+    "root": "nandraho",
+    "translation_fr": "cuit"
+  },
+  "nandramanareo": {
+    "root": "nandramy",
+    "translation_fr": "essayé"
+  },
+  "nangatahintsika": {
+    "root": "nangatahiny",
+    "translation_fr": "il a demandé"
+  },
+  "nania": {
+    "root": "nania",
+    "translation_fr": "s'est égaré"
+  },
+  "naniraka": {
+    "root": "naniraka",
+    "translation_fr": "envoyé"
+  },
+  "nanjary": {
+    "root": "nanjary",
+    "translation_fr": "devenu"
+  },
+  "nankany": {
+    "root": "nanka",
+    "translation_fr": "est allé"
+  },
+  "nanome": {
+    "root": "nanome",
+    "translation_fr": "a donné"
+  },
+  "nanoratra": {
+    "root": "nanoratra",
+    "translation_fr": "a écrit"
+  },
+  "nanorenana": {
+    "root": "nanoreny",
+    "translation_fr": "il a construit"
+  },
+  "nanorina": {
+    "root": "nanory",
+    "translation_fr": "pleuré"
+  },
+  "nanota": {
+    "root": "nanota",
+    "translation_fr": "péché"
+  },
+  "nantsoiny": {
+    "root": "nantsoy",
+    "translation_fr": "appelé"
+  },
+  "nasaina": {
+    "root": "nasa",
+    "translation_fr": "nasa"
+  },
+  "naseho": {
+    "root": "naseho",
+    "translation_fr": "montré"
+  },
+  "nasehonny": {
+    "root": "nasehony",
+    "translation_fr": "il a montré"
+  },
+  "natao": {
+    "root": "natao",
+    "translation_fr": "fait"
+  },
+  "nataonandriamanitra": {
+    "root": "nataonandriamanitra",
+    "translation_fr": "fait par Dieu"
+  },
+  "nataonay": {
+    "root": "nataonay",
+    "translation_fr": "nous l'avons fait"
+  },
+  "nataonny": {
+    "root": "nataony",
+    "translation_fr": "il l'a fait"
+  },
+  "nataony": {
+    "root": "natao",
+    "translation_fr": "fait"
+  },
+  "nateraka": {
+    "root": "nateraka",
+    "translation_fr": "est né"
+  },
+  "naterakandriamanitra": {
+    "root": "naterakandriamanitra",
+    "translation_fr": "né de Dieu"
+  },
+  "naterany": {
+    "root": "natera",
+    "translation_fr": "est né"
+  },
+  "nefa": {
+    "root": "nefa",
+    "translation_fr": "mais"
+  },
+  "nentimpaharazana": {
+    "root": "nentimpaharazy",
+    "translation_fr": "traditionnel"
+  },
+  "nentina": {
+    "root": "nenty",
+    "translation_fr": "apporté"
+  },
+  "nentinizy": {
+    "root": "nentinizy",
+    "translation_fr": "il a apporté"
+  },
+  "niala": {
+    "root": "niala",
+    "translation_fr": "gauche"
+  },
+  "niantso": {
+    "root": "niantso",
+    "translation_fr": "appelé"
+  },
+  "niantsoana": {
+    "root": "niantso",
+    "translation_fr": "appelé"
+  },
+  "niaraka": {
+    "root": "niaraka",
+    "translation_fr": "ensemble"
+  },
+  "niaritra": {
+    "root": "niaritra",
+    "translation_fr": "enduré"
+  },
+  "niditra": {
+    "root": "niditra",
+    "translation_fr": "entré"
+  },
+  "nifaninana": {
+    "root": "nifaniny",
+    "translation_fr": "ils se sont rencontrés"
+  },
+  "nifindra": {
+    "root": "nifindra",
+    "translation_fr": "déplacé"
+  },
+  "niisa": {
+    "root": "niisa",
+    "translation_fr": "dénombré"
+  },
+  "nijaly": {
+    "root": "nijaly",
+    "translation_fr": "souffert"
+  },
+  "nikaroka": {
+    "root": "nikaroka",
+    "translation_fr": "recherché"
+  },
+  "nilaza": {
+    "root": "nilaza",
+    "translation_fr": "dit"
+  },
+  "nindrana": {
+    "root": "nindry",
+    "translation_fr": "pressé"
+  },
+  "nirahinny": {
+    "root": "nirahiny",
+    "translation_fr": "il a envoyé"
+  },
+  "nirahiny": {
+    "root": "nirahy",
+    "translation_fr": "envoyé"
+  },
+  "nisotro": {
+    "root": "nisotro",
+    "translation_fr": "bu"
+  },
+  "nisy": {
+    "root": "nisy",
+    "translation_fr": "il y avait"
+  },
+  "nitondra": {
+    "root": "nitondra",
+    "translation_fr": "apporté"
+  },
+  "nitoriana": {
+    "root": "nitory",
+    "translation_fr": "prêché"
+  },
+  "nitory": {
+    "root": "nitory",
+    "translation_fr": "prêché"
+  },
+  "no": {
+    "root": "no",
+    "translation_fr": "Non"
+  },
+  "noa": {
+    "root": "noa",
+    "translation_fr": "gratuit"
+  },
+  "nofidinandriamanitra": {
+    "root": "nofidinandriamanitra",
+    "translation_fr": "choisi par Dieu"
+  },
+  "nofo": {
+    "root": "nofo",
+    "translation_fr": "chair"
+  },
+  "nohagasiana": {
+    "root": "nohagasy",
+    "translation_fr": "nohagasi"
+  },
+  "nohajambainny": {
+    "root": "nohajambainy",
+    "translation_fr": "il l'a aveuglé"
+  },
+  "nohamasininny": {
+    "root": "nohamasininy",
+    "translation_fr": "il a sanctifié"
+  },
+  "noho": {
+    "root": "noho",
+    "translation_fr": "parce que"
+  },
+  "nohosoranilay": {
+    "root": "nohosoranilay",
+    "translation_fr": "oint"
+  },
+  "nohosorany": {
+    "root": "nohosora",
+    "translation_fr": "oint"
+  },
+  "nojerenay": {
+    "root": "nojerenay",
+    "translation_fr": "nous avons vérifié"
+  },
+  "nolazainandriamanitra": {
+    "root": "nolazainandriamanitra",
+    "translation_fr": "dit par Dieu"
+  },
+  "nolazainny": {
+    "root": "nolazainy",
+    "translation_fr": "il a dit"
+  },
+  "nolazainy": {
+    "root": "nolazay",
+    "translation_fr": "dit"
+  },
+  "nomena": {
+    "root": "nena",
+    "translation_fr": "bébé"
+  },
+  "nomeny": {
+    "root": "neny",
+    "translation_fr": "mère"
+  },
+  "noraisinareo": {
+    "root": "noraisy",
+    "translation_fr": "pris"
+  },
+  "nosedraina": {
+    "root": "nosedra",
+    "translation_fr": "testé"
+  },
+  "nosoratanizy": {
+    "root": "nosoratanizy",
+    "translation_fr": "il a écrit"
+  },
+  "nosy": {
+    "root": "nosy",
+    "translation_fr": "île"
+  },
+  "notsapainny": {
+    "root": "notsapainy",
+    "translation_fr": "il a testé"
+  },
+  "ny": {
+    "root": "ny",
+    "translation_fr": "le"
+  },
+  "ohatra": {
+    "root": "ohatra",
+    "translation_fr": "Par exemple"
+  },
+  "olomarina": {
+    "root": "olomary",
+    "translation_fr": "personnes"
+  },
+  "olombelona": {
+    "root": "olombelo",
+    "translation_fr": "personnes"
+  },
+  "olompirenena": {
+    "root": "olompirene",
+    "translation_fr": "personnes"
+  },
+  "olona": {
+    "root": "olo",
+    "translation_fr": "personnes"
+  },
+  "omenandriamanitra": {
+    "root": "omenandriamanitra",
+    "translation_fr": "dieux"
+  },
+  "omeo": {
+    "root": "omeo",
+    "translation_fr": "donne-le"
+  },
+  "onenana": {
+    "root": "oneny",
+    "translation_fr": "il a dit"
+  },
+  "ony": {
+    "root": "ony",
+    "translation_fr": "rivière"
+  },
+  "ora": {
+    "root": "ora",
+    "translation_fr": "heure"
+  },
+  "orina": {
+    "root": "ory",
+    "translation_fr": "misérable"
+  },
+  "oroka": {
+    "root": "oroka",
+    "translation_fr": "baiser"
+  },
+  "ory": {
+    "root": "ory",
+    "translation_fr": "misérable"
+  },
+  "ota": {
+    "root": "ota",
+    "translation_fr": "péché"
+  },
+  "paika": {
+    "root": "paika",
+    "translation_fr": "plan"
+  },
+  "pakistaney": {
+    "root": "pakistaney",
+    "translation_fr": "pakistanais"
+  },
+  "pentina": {
+    "root": "penty",
+    "translation_fr": "taches"
+  },
+  "petera": {
+    "root": "petera",
+    "translation_fr": "Pierre"
+  },
+  "polo": {
+    "root": "polo",
+    "translation_fr": "polo"
+  },
+  "ponto": {
+    "root": "ponto",
+    "translation_fr": "indiquer"
+  },
+  "prôtestanta": {
+    "root": "prôtestanta",
+    "translation_fr": "protestant"
+  },
+  "ra": {
+    "root": "ra",
+    "translation_fr": "sang"
+  },
+  "raha": {
+    "root": "raha",
+    "translation_fr": "si"
+  },
+  "rahalahinareo": {
+    "root": "rahalahy",
+    "translation_fr": "frère"
+  },
+  "rahalahintsika": {
+    "root": "rahalahiny",
+    "translation_fr": "son frère"
+  },
+  "rahalahiny": {
+    "root": "rahalahy",
+    "translation_fr": "frère"
+  },
+  "rahalahy": {
+    "root": "rahalahy",
+    "translation_fr": "frère"
+  },
+  "raini": {
+    "root": "rainy",
+    "translation_fr": "son père"
+  },
+  "randrambolo": {
+    "root": "randrambolo",
+    "translation_fr": "gronder"
+  },
+  "rani": {
+    "root": "rany",
+    "translation_fr": "sang"
+  },
+  "ranny": {
+    "root": "rany",
+    "translation_fr": "sang"
+  },
+  "rano": {
+    "root": "rano",
+    "translation_fr": "eau"
+  },
+  "ranomainty": {
+    "root": "ranomainty",
+    "translation_fr": "encre"
+  },
+  "rariny": {
+    "root": "rary",
+    "translation_fr": "malade"
+  },
+  "ratrany": {
+    "root": "ratra",
+    "translation_fr": "blessure"
+  },
+  "ray": {
+    "root": "ray",
+    "translation_fr": "père"
+  },
+  "razambe": {
+    "root": "razambe",
+    "translation_fr": "ancêtre"
+  },
+  "razambenareo": {
+    "root": "razambenareo",
+    "translation_fr": "vos ancêtres"
+  },
+  "razana": {
+    "root": "razy",
+    "translation_fr": "fois"
+  },
+  "rehefa": {
+    "root": "rehefa",
+    "translation_fr": "quand"
+  },
+  "rehetra": {
+    "root": "rehetra",
+    "translation_fr": "tous"
+  },
+  "resinny": {
+    "root": "resiny",
+    "translation_fr": "vaincu"
+  },
+  "roapolo": {
+    "root": "roapolo",
+    "translation_fr": "vingt"
+  },
+  "ronono": {
+    "root": "ronono",
+    "translation_fr": "lait"
+  },
+  "ry": {
+    "root": "ry",
+    "translation_fr": "frère"
+  },
+  "sady": {
+    "root": "sady",
+    "translation_fr": "et"
+  },
+  "sahady": {
+    "root": "sahady",
+    "translation_fr": "déjà"
+  },
+  "sahirana": {
+    "root": "sahiry",
+    "translation_fr": "sahiry"
+  },
+  "sahy": {
+    "root": "sahy",
+    "translation_fr": "courageux"
+  },
+  "saina": {
+    "root": "say",
+    "translation_fr": "dire"
+  },
+  "sainareo": {
+    "root": "sainareo",
+    "translation_fr": "attention à toi"
+  },
+  "saingy": {
+    "root": "saingy",
+    "translation_fr": "mais"
+  },
+  "sakaraha": {
+    "root": "sakaraha",
+    "translation_fr": "séparé"
+  },
+  "sambatra": {
+    "root": "sambatra",
+    "translation_fr": "Heureux"
+  },
+  "sambofiara": {
+    "root": "sambofiara",
+    "translation_fr": "bateau"
+  },
+  "samia": {
+    "root": "samia",
+    "translation_fr": "ensemble"
+  },
+  "samihafa": {
+    "root": "samihafa",
+    "translation_fr": "différent"
+  },
+  "sampana": {
+    "root": "sampy",
+    "translation_fr": "idole"
+  },
+  "sampy": {
+    "root": "sampy",
+    "translation_fr": "idole"
+  },
+  "samy": {
+    "root": "samy",
+    "translation_fr": "les deux"
+  },
+  "sandoka": {
+    "root": "sandoka",
+    "translation_fr": "faux"
+  },
+  "sao": {
+    "root": "sao",
+    "translation_fr": "peut être"
+  },
+  "saraha": {
+    "root": "saraha",
+    "translation_fr": "séparé"
+  },
+  "sarintany": {
+    "root": "sarinta",
+    "translation_fr": "carte"
+  },
+  "sarobidy": {
+    "root": "sarobidy",
+    "translation_fr": "précieux"
+  },
+  "sarotra": {
+    "root": "sarotra",
+    "translation_fr": "difficile"
+  },
+  "sarotsarotiny": {
+    "root": "sarotsaroty",
+    "translation_fr": "difficile"
+  },
+  "sasany": {
+    "root": "sa",
+    "translation_fr": "sa"
+  },
+  "satria": {
+    "root": "satria",
+    "translation_fr": "parce que"
+  },
+  "satroboninahitra": {
+    "root": "satroboninahitra",
+    "translation_fr": "couronne"
+  },
+  "sedra": {
+    "root": "sedra",
+    "translation_fr": "arrivé"
+  },
+  "sehatra": {
+    "root": "sehatra",
+    "translation_fr": "plate-forme"
+  },
+  "sekoly": {
+    "root": "sekoly",
+    "translation_fr": "école"
+  },
+  "sendra": {
+    "root": "sendra",
+    "translation_fr": "par hasard"
+  },
+  "sihanaka": {
+    "root": "sihanaka",
+    "translation_fr": "Sihanaka"
+  },
+  "silamo": {
+    "root": "silamo",
+    "translation_fr": "musulman"
+  },
+  "simba": {
+    "root": "simba",
+    "translation_fr": "endommagé"
+  },
+  "sinoa": {
+    "root": "soa",
+    "translation_fr": "bien"
+  },
+  "sisa": {
+    "root": "sisa",
+    "translation_fr": "repos"
+  },
+  "sitrana": {
+    "root": "sitry",
+    "translation_fr": "doux"
+  },
+  "sitraponandriamanitra": {
+    "root": "sitraponandriamanitra",
+    "translation_fr": "La volonté de Dieu"
+  },
+  "sitraponizao": {
+    "root": "sitraponizao",
+    "translation_fr": "ce sera"
+  },
+  "sitrapony": {
+    "root": "sitrapo",
+    "translation_fr": "volonté"
+  },
+  "soa": {
+    "root": "soa",
+    "translation_fr": "bien"
+  },
+  "soahily": {
+    "root": "soahily",
+    "translation_fr": "Swahili"
+  },
+  "society": {
+    "root": "society",
+    "translation_fr": "société"
+  },
+  "sofiny": {
+    "root": "sofy",
+    "translation_fr": "oreille"
+  },
+  "solonny": {
+    "root": "solony",
+    "translation_fr": "remplaçant"
+  },
+  "solosaina": {
+    "root": "solosa",
+    "translation_fr": "ordinateur"
+  },
+  "sorabe": {
+    "root": "sorabe",
+    "translation_fr": "sobre"
+  },
+  "soratako": {
+    "root": "sorata",
+    "translation_fr": "écrire"
+  },
+  "soratra": {
+    "root": "soratra",
+    "translation_fr": "texte"
+  },
+  "sorona": {
+    "root": "soro",
+    "translation_fr": "épaules"
+  },
+  "sy": {
+    "root": "sy",
+    "translation_fr": "et"
+  },
+  "sômalia": {
+    "root": "sômalia",
+    "translation_fr": "Somalie"
+  },
+  "sômaliana": {
+    "root": "sômaly",
+    "translation_fr": "Somalie"
+  },
+  "tafahoatra": {
+    "root": "tafahoatra",
+    "translation_fr": "excessif"
+  },
+  "tafaray": {
+    "root": "tafaray",
+    "translation_fr": "uni"
+  },
+  "tafintohina": {
+    "root": "tafintohy",
+    "translation_fr": "trébuché"
+  },
+  "tahotra": {
+    "root": "tahotra",
+    "translation_fr": "peur"
+  },
+  "taloha": {
+    "root": "taloha",
+    "translation_fr": "dans le passé"
+  },
+  "talohanny": {
+    "root": "talohany",
+    "translation_fr": "devant lui"
+  },
+  "tamina": {
+    "root": "tamy",
+    "translation_fr": "là"
+  },
+  "taminandriamanitra": {
+    "root": "taminandriamanitra",
+    "translation_fr": "par Dieu"
+  },
+  "taminareo": {
+    "root": "tamy",
+    "translation_fr": "là"
+  },
+  "taminianareo": {
+    "root": "taminy",
+    "translation_fr": "à lui"
+  },
+  "taminilay": {
+    "root": "taminilay",
+    "translation_fr": "c'est ça"
+  },
+  "taminireo": {
+    "root": "taminireo",
+    "translation_fr": "parmi eux"
+  },
+  "taminizao": {
+    "root": "taminizao",
+    "translation_fr": "maintenant"
+  },
+  "taminizay": {
+    "root": "taminizay",
+    "translation_fr": "à ce moment-là"
+  },
+  "taminizy": {
+    "root": "taminizy",
+    "translation_fr": "à lui"
+  },
+  "taminny": {
+    "root": "taminy",
+    "translation_fr": "à lui"
+  },
+  "tamintsika": {
+    "root": "taminy",
+    "translation_fr": "à lui"
+  },
+  "taminy": {
+    "root": "tamy",
+    "translation_fr": "là"
+  },
+  "tanala": {
+    "root": "tanala",
+    "translation_fr": "tanala"
+  },
+  "tanamaherinandriamanitra": {
+    "root": "tanamaherinandriamanitra",
+    "translation_fr": "le corps de Dieu"
+  },
+  "tananay": {
+    "root": "tananay",
+    "translation_fr": "nos mains"
+  },
+  "tanandehibe": {
+    "root": "tanandehibe",
+    "translation_fr": "grande ville"
+  },
+  "tandrefana": {
+    "root": "tandrefy",
+    "translation_fr": "Ouest"
+  },
+  "tandremo": {
+    "root": "tandremo",
+    "translation_fr": "sois prudent"
+  },
+  "tandroy": {
+    "root": "tandroy",
+    "translation_fr": "attendez"
+  },
+  "tandroymahafaly": {
+    "root": "tandroymahafaly",
+    "translation_fr": "tandroymafafaly"
+  },
+  "tanjonareo": {
+    "root": "tanjonareo",
+    "translation_fr": "vos objectifs"
+  },
+  "tankarana": {
+    "root": "tankary",
+    "translation_fr": "réservoirs"
+  },
+  "tanora": {
+    "root": "tanora",
+    "translation_fr": "jeunesse"
+  },
+  "tanosy": {
+    "root": "tanosy",
+    "translation_fr": "tanos"
+  },
+  "tanteraka": {
+    "root": "tanteraka",
+    "translation_fr": "complètement"
+  },
+  "tany": {
+    "root": "tany",
+    "translation_fr": "Terre"
+  },
+  "tanàna": {
+    "root": "tanà",
+    "translation_fr": "ville"
+  },
+  "tanànani": {
+    "root": "tanànany",
+    "translation_fr": "sa ville"
+  },
+  "tanàndehibe": {
+    "root": "tanàndehibe",
+    "translation_fr": "grande ville"
+  },
+  "tao": {
+    "root": "tao",
+    "translation_fr": "là"
+  },
+  "taompolo": {
+    "root": "taompolo",
+    "translation_fr": "vingt ans"
+  },
+  "taona": {
+    "root": "tao",
+    "translation_fr": "là"
+  },
+  "taonjato": {
+    "root": "taonjato",
+    "translation_fr": "siècle"
+  },
+  "tapany": {
+    "root": "tapa",
+    "translation_fr": "couper"
+  },
+  "taranaky": {
+    "root": "taranaky",
+    "translation_fr": "sa génération"
+  },
+  "taratasy": {
+    "root": "taratasy",
+    "translation_fr": "papier"
+  },
+  "te": {
+    "root": "te",
+    "translation_fr": "te"
+  },
+  "tefasy": {
+    "root": "tefasy",
+    "translation_fr": "jeter"
+  },
+  "teknika": {
+    "root": "teknika",
+    "translation_fr": "technique"
+  },
+  "telo": {
+    "root": "telo",
+    "translation_fr": "trois"
+  },
+  "tena": {
+    "root": "tena",
+    "translation_fr": "vraiment"
+  },
+  "tenanareo": {
+    "root": "teny",
+    "translation_fr": "mots"
+  },
+  "tenany": {
+    "root": "tena",
+    "translation_fr": "vraiment"
+  },
+  "tendro": {
+    "root": "tendro",
+    "translation_fr": "conseil"
+  },
+  "teneniny": {
+    "root": "teneny",
+    "translation_fr": "dire"
+  },
+  "teninandriamanitra": {
+    "root": "teninandriamanitra",
+    "translation_fr": "parole de Dieu"
+  },
+  "tenini": {
+    "root": "teniny",
+    "translation_fr": "ses mots"
+  },
+  "teninilay": {
+    "root": "teninilay",
+    "translation_fr": "le mot"
+  },
+  "teninny": {
+    "root": "teniny",
+    "translation_fr": "ses mots"
+  },
+  "teniny": {
+    "root": "teny",
+    "translation_fr": "mots"
+  },
+  "teny": {
+    "root": "teny",
+    "translation_fr": "mots"
+  },
+  "teo": {
+    "root": "teo",
+    "translation_fr": "là"
+  },
+  "tesaka": {
+    "root": "tesaka",
+    "translation_fr": "c'est dur"
+  },
+  "teto": {
+    "root": "teto",
+    "translation_fr": "ici"
+  },
+  "tety": {
+    "root": "tety",
+    "translation_fr": "fermer"
+  },
+  "tia": {
+    "root": "tia",
+    "translation_fr": "comme"
+  },
+  "tiako": {
+    "root": "tia",
+    "translation_fr": "comme"
+  },
+  "tianay": {
+    "root": "tianay",
+    "translation_fr": "nous l'adorons"
+  },
+  "tianny": {
+    "root": "tiany",
+    "translation_fr": "il aime"
+  },
+  "tiantsika": {
+    "root": "tiany",
+    "translation_fr": "il aime"
+  },
+  "tiany": {
+    "root": "tia",
+    "translation_fr": "comme"
+  },
+  "toa": {
+    "root": "toa",
+    "translation_fr": "apparemment"
+  },
+  "toamasina": {
+    "root": "toamasy",
+    "translation_fr": "Thomas"
+  },
+  "toerana": {
+    "root": "toery",
+    "translation_fr": "tory"
+  },
+  "toetra": {
+    "root": "toetra",
+    "translation_fr": "personnage"
+  },
+  "toetsaina": {
+    "root": "toetsa",
+    "translation_fr": "test"
+  },
+  "tohero": {
+    "root": "tohero",
+    "translation_fr": "résister"
+  },
+  "tokoa": {
+    "root": "tokoa",
+    "translation_fr": "en effet"
+  },
+  "tokony": {
+    "root": "toko",
+    "translation_fr": "type"
+  },
+  "toky": {
+    "root": "toky",
+    "translation_fr": "bien sûr"
+  },
+  "tolagnaro": {
+    "root": "tolagnaro",
+    "translation_fr": "tolagnaro"
+  },
+  "tombanana": {
+    "root": "tombany",
+    "translation_fr": "estimation"
+  },
+  "tombony": {
+    "root": "tombo",
+    "translation_fr": "tombo"
+  },
+  "tompo": {
+    "root": "tompo",
+    "translation_fr": "maître"
+  },
+  "tompontsika": {
+    "root": "tompony",
+    "translation_fr": "propriétaire"
+  },
+  "tompony": {
+    "root": "tompo",
+    "translation_fr": "maître"
+  },
+  "tonga": {
+    "root": "tonga",
+    "translation_fr": "viens"
+  },
+  "tontolo": {
+    "root": "tontolo",
+    "translation_fr": "monde"
+  },
+  "tony": {
+    "root": "tony",
+    "translation_fr": "calme-toi"
+  },
+  "torinay": {
+    "root": "torinay",
+    "translation_fr": "nous prêchons"
+  },
+  "toy": {
+    "root": "toy",
+    "translation_fr": "comme"
+  },
+  "trano": {
+    "root": "trano",
+    "translation_fr": "maison"
+  },
+  "tratranareo": {
+    "root": "tratry",
+    "translation_fr": "attrapé"
+  },
+  "tsara": {
+    "root": "tsara",
+    "translation_fr": "bien"
+  },
+  "tsaraina": {
+    "root": "tsara",
+    "translation_fr": "bien"
+  },
+  "tsaranandriamanitra": {
+    "root": "tsaranandriamanitra",
+    "translation_fr": "Bon Dieu"
+  },
+  "tsatokazo": {
+    "root": "tsatokazo",
+    "translation_fr": "pôle"
+  },
+  "tsia": {
+    "root": "tsia",
+    "translation_fr": "Non"
+  },
+  "tsimihety": {
+    "root": "tsimihety",
+    "translation_fr": "tsimihet"
+  },
+  "tsindraindray": {
+    "root": "tsindraindray",
+    "translation_fr": "de temps en temps"
+  },
+  "tsininy": {
+    "root": "tsiny",
+    "translation_fr": "Désolé"
+  },
+  "tsiombe": {
+    "root": "tsiombe",
+    "translation_fr": "un petit peu"
+  },
+  "tsirairay": {
+    "root": "tsirairay",
+    "translation_fr": "individuellement"
+  },
+  "tsirambina": {
+    "root": "tsiramby",
+    "translation_fr": "imprudent"
+  },
+  "tsotra": {
+    "root": "tsotra",
+    "translation_fr": "simple"
+  },
+  "zafimaniry": {
+    "root": "zafimaniry",
+    "translation_fr": "usine"
+  },
+  "zafisoro": {
+    "root": "zafisoro",
+    "translation_fr": "Zafisoro"
+  },
+  "zanahary": {
+    "root": "zanahary",
+    "translation_fr": "bébé"
+  },
+  "zanaka": {
+    "root": "zanaka",
+    "translation_fr": "fils"
+  },
+  "zanakandriamanitra": {
+    "root": "zanakandriamanitra",
+    "translation_fr": "Fils de Dieu"
+  },
+  "zanakao": {
+    "root": "zanakao",
+    "translation_fr": "votre enfant"
+  },
+  "zanaki": {
+    "root": "zanaky",
+    "translation_fr": "fils"
+  },
+  "zanakilay": {
+    "root": "zanakilay",
+    "translation_fr": "fils"
+  },
+  "zanako": {
+    "root": "zana",
+    "translation_fr": "enfant"
+  },
+  "zanaky": {
+    "root": "zanaky",
+    "translation_fr": "fils"
+  },
+  "zanany": {
+    "root": "zana",
+    "translation_fr": "enfant"
+  },
+  "zanatany": {
+    "root": "zanata",
+    "translation_fr": "colonie"
+  },
+  "zaratany": {
+    "root": "zarata",
+    "translation_fr": "zarata"
+  },
+  "zatra": {
+    "root": "zatra",
+    "translation_fr": "habitué"
+  },
+  "zaza": {
+    "root": "za",
+    "translation_fr": "volonté"
+  },
+  "ziona": {
+    "root": "zio",
+    "translation_fr": "zio"
+  },
+  "zo": {
+    "root": "zo",
+    "translation_fr": "droite"
+  },
+  "zokiolona": {
+    "root": "zokiolo",
+    "translation_fr": "vieillard"
+  },
+  "zompirenena": {
+    "root": "zompirene",
+    "translation_fr": "zompirène"
+  },
+  "àry": {
+    "root": "àry",
+    "translation_fr": "Donc"
+  },
+  "ôfisialy": {
+    "root": "ôfisialy",
+    "translation_fr": "officiel"
+  }
+}
