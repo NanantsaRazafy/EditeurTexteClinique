@@ -1,13 +1,121 @@
-body {
+html, body {
+  height: 100%;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  padding: 2px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.editor-container {
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 12px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 8px;
+}
+
+.editor-container h1 {
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.toolbar {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 0;
+  padding: 10px 0;
+  flex-shrink: 0;
+}
+
+
+.editor-wrapper {
+  display: flex;
+  flex: 1;
+  border: 2px solid #ddd;
+  border-radius: 0; 
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+
+.line-numbers {
+  background: #f3f3f3;
+  padding: 15px 8px;
+  text-align: right;
+  user-select: none;
+  font-size: 16px;
+  line-height: 24px;
+  color: #888;
+}
+
+.line-number {
+  height: 24px;
+}
+
+
+.editor-container-inner {
+  position: relative;
+  flex: 1;
+}
+
+
+.editor-placeholder {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  color: #aaa;
+  pointer-events: none;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+
+.editor {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  font-size: 16px;
+  line-height: 24px;
+  outline: none;
+  overflow-y: auto;
+  white-space: pre-wrap;
+}
+
+.btn-modern {
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  border: none;
+  border-radius: 8px; 
+  cursor: pointer;
+
+  box-shadow: 0 4px 15px rgba(110, 142, 251, 0.4);
+  
+
+  transition: all 0.3s ease;
+  outline: none;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.btn-modern:hover {
+  transform: translateY(-3px); 
+  box-shadow: 0 6px 20px rgba(110, 142, 251, 0.6);
+  filter: brightness(1.1); 
+}
+
+
+.btn-modern:active {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px rgba(110, 142, 251, 0.4);
 }
