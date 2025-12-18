@@ -96,35 +96,54 @@ const MalagasyEditor = () => {
   };
 
   // Analyser le texte complet
-  const performAnalysis = async (text) => {
-    const plainText = text.replace(/<[^>]*>/g, '').trim();
-    if (!plainText) {
-      setAnalysis({ valid: [], invalid: [], forbidden: [] });
-      return;
+const performAnalysis = async (text) => {
+  const plainText = text.replace(/<[^>]*>/g, '').trim();
+  if (!plainText) {
+    setAnalysis({ valid: [], invalid: [], forbidden: [] });
+    setSuggestions([]);
+    setShowSuggestions(false);
+    return;
+  }
+
+  try {
+    const result = await analyzeTextAPI(plainText, "mg");
+
+    // Séparer mots valides, invalides et interdits
+    const safeResult = {
+      valid: result?.valid || [],
+      invalid: result?.invalid || [],
+      forbidden: result?.forbidden || []
+    };
+    setAnalysis(safeResult);
+
+    // Compter les erreurs
+    setStatistics(prev => ({
+      ...prev,
+      errors: safeResult.invalid.length + safeResult.forbidden.length
+    }));
+
+    // Récupérer la première suggestion si le mot est inconnu
+    if (result?.issues && result.issues.length > 0) {
+      const firstIssue = result.issues[0];
+      if (firstIssue?.suggestions && firstIssue.suggestions.length > 0) {
+        setCurrentWord(firstIssue.word);
+        setSuggestions(firstIssue.suggestions);
+        setShowSuggestions(true);
+      } else {
+        setShowSuggestions(false);
+      }
+    } else {
+      setShowSuggestions(false);
     }
 
-    try {
-      const result = await analyzeTextAPI(plainText, "mg");
-      
-      // Ensure result has the correct structure
-      const safeResult = {
-        valid: result?.valid || [],
-        invalid: result?.invalid || [],
-        forbidden: result?.forbidden || []
-      };
-      
-      setAnalysis(safeResult);
+  } catch (error) {
+    console.error("Erreur API analyse:", error);
+    setAnalysis({ valid: [], invalid: [], forbidden: [] });
+    setSuggestions([]);
+    setShowSuggestions(false);
+  }
+};
 
-      setStatistics(prev => ({
-        ...prev,
-        errors: safeResult.invalid.length + safeResult.forbidden.length
-      }));
-    } catch (error) {
-      console.error("Erreur API analyse:", error);
-      // Set safe default on error
-      setAnalysis({ valid: [], invalid: [], forbidden: [] });
-    }
-  };
 
   // Sauvegarder le contenu
   const handleSave = () => {
@@ -344,6 +363,13 @@ const MalagasyEditor = () => {
                   placeholder="Manoratra eto... Commencez à écrire en Malagasy..."
                   className="min-h-[400px] sm:min-h-[500px]"
                 />
+
+                {showSuggestions && suggestions.length > 0 && (
+  <div className="mt-2 p-2 bg-yellow-100 text-yellow-800 rounded shadow">
+    <strong>Mot suggéré pour "{currentWord}" :</strong> {suggestions[0]}
+  </div>
+)}
+
               </div>
             </div>
 
