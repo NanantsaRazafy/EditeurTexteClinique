@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "id": "double_space",
+      "pattern": " {2,}",
+      "message": "Double espace détecté",
+      "severity": "info",
+      "scope": "text"
+    },
+    {
+      "id": "space_before_comma",
+      "pattern": "\\s+,",
+      "message": "Espace avant une virgule",
+      "severity": "warn",
+      "scope": "text"
+    }
+  ]
+}
