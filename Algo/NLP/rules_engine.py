@@ -29,12 +29,13 @@ def load_rules(path: Path) -> list[Rule]:
         ))
     return rules
 
+
 def apply_text_rules(text: str, rules: list[Rule]) -> list[dict]:
     issues: list[dict] = []
     for rule in rules:
         if rule.scope != "text":
             continue
-        rx = re.compile(rule.pattern)
+        rx = re.compile(rule.pattern, re.IGNORECASE | re.UNICODE)
         for m in rx.finditer(text):
             issues.append({
                 "start": m.start(),
@@ -47,5 +48,6 @@ def apply_text_rules(text: str, rules: list[Rule]) -> list[dict]:
                 "suggestions": []
             })
     return issues
+
     
 

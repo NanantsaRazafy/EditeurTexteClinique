@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+        "id": "mg_forbidden_clusters",
+        "type": "rule",
+        "severity": "warn",
+        "pattern": "\\b[A-Za-zÀ-ÖØ-öø-ÿ’']*(nb|mk|mt|dt|fz|kg|pd|tj|gv)[A-Za-zÀ-ÖØ-öø-ÿ’']*\\b",
+        "message": "Séquence suspecte en malagasy (cluster non-standard)."    
+    },
+
+    {
+      "id": "mg_rare_letters_cqwx",
+      "type": "rule",
+      "severity": "info",
+      "pattern": "\\b[A-Za-zÀ-ÖØ-öø-ÿ’']*[cqwx][A-Za-zÀ-ÖØ-öø-ÿ’']*\\b",
+      "message": "Lettre rare/non-standard en malagasy (c/q/w/x) — possible mot emprunté."
+    },
+    {
+      "id": "mg_digits_in_word",
+      "type": "rule",
+      "severity": "warn",
+      "pattern": "\\b[A-Za-zÀ-ÖØ-öø-ÿ’']*\\d+[A-Za-zÀ-ÖØ-öø-ÿ’']*\\b",
+      "message": "Chiffre détecté dans un mot (probable faute de frappe)."
+    },
+    {
+      "id": "mg_triple_consonants",
+      "type": "rule",
+      "severity": "info",
+      "pattern": "\\b[A-Za-zÀ-ÖØ-öø-ÿ’']*[bcdfghjklmnpqrstvwxyz]{3,}[A-Za-zÀ-ÖØ-öø-ÿ’']*\\b",
+      "message": "Suite de 3 consonnes ou plus : mot potentiellement non-standard / à vérifier."
+    },
+    {
+      "id": "mg_repeated_letter_3plus",
+      "type": "rule",
+      "severity": "info",
+      "pattern": "\\b[A-Za-zÀ-ÖØ-öø-ÿ’']*([A-Za-zÀ-ÖØ-öø-ÿ’'])\\1{2,}[A-Za-zÀ-ÖØ-öø-ÿ’']*\\b",
+      "message": "Lettre répétée 3 fois ou plus : probable erreur de frappe."
+    }
+  ]
+}
