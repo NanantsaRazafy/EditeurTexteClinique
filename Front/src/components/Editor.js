@@ -1,6 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css';
+import { analyzeTextAPI } from '../services/api';
+
 import { 
   FileText, 
   Save, 
@@ -18,7 +20,11 @@ import { checkWord, hasForbiddenPattern, getSuggestions, analyzeText } from '../
 const MalagasyEditor = () => {
   const [content, setContent] = useState('');
   const [statistics, setStatistics] = useState({ words: 0, chars: 0, errors: 0 });
-  const [analysis, setAnalysis] = useState({ valid: [], invalid: [], forbidden: [] });
+  const [analysis, setAnalysis] = useState({
+    valid: [],
+    invalid: [],
+    forbidden: []
+  });
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [currentWord, setCurrentWord] = useState('');
   const [suggestions, setSuggestions] = useState([]);
@@ -48,19 +54,39 @@ const MalagasyEditor = () => {
 
   // Gérer les changements de contenu
   const handleChange = (value) => {
-    setContent(value);
-    updateStatistics(value);
-    performAnalysis(value);
+    try {
+      setContent(value);
+      updateStatistics(value);
+      performAnalysis(value);
+    } catch (err) {
+      console.error('Error in handleChange:', err);
+    }
   };
 
   // Calculer les statistiques
   const updateStatistics = (text) => {
     const plainText = text.replace(/<[^>]*>/g, '');
     const words = plainText.trim().split(/\s+/).filter(w => w.length > 0);
-    const errors = words.filter(word => {
-      const clean = word.replace(/[.,!?;:]/g, '');
-      return (!checkWord(clean) || hasForbiddenPattern(clean)) && clean.length > 2;
-    }).length;
+    
+    let errors = 0;
+    try {
+      errors = words.filter(word => {
+        const clean = word.replace(/[.,!?;:]/g, '');
+        if (clean.length <= 2) return false;
+        
+        try {
+          const isValid = checkWord && typeof checkWord === 'function' ? checkWord(clean) : true;
+          const hasForbidden = hasForbiddenPattern && typeof hasForbiddenPattern === 'function' ? hasForbiddenPattern(clean) : false;
+          return (!isValid || hasForbidden);
+        } catch (err) {
+          console.error('Error checking word:', err);
+          return false;
+        }
+      }).length;
+    } catch (err) {
+      console.error('Error in updateStatistics:', err);
+      errors = 0;
+    }
 
     setStatistics({
       words: words.length,
@@ -70,9 +96,34 @@ const MalagasyEditor = () => {
   };
 
   // Analyser le texte complet
-  const performAnalysis = (text) => {
-    const result = analyzeText(text);
-    setAnalysis(result);
+  const performAnalysis = async (text) => {
+    const plainText = text.replace(/<[^>]*>/g, '').trim();
+    if (!plainText) {
+      setAnalysis({ valid: [], invalid: [], forbidden: [] });
+      return;
+    }
+
+    try {
+      const result = await analyzeTextAPI(plainText, "mg");
+      
+      // Ensure result has the correct structure
+      const safeResult = {
+        valid: result?.valid || [],
+        invalid: result?.invalid || [],
+        forbidden: result?.forbidden || []
+      };
+      
+      setAnalysis(safeResult);
+
+      setStatistics(prev => ({
+        ...prev,
+        errors: safeResult.invalid.length + safeResult.forbidden.length
+      }));
+    } catch (error) {
+      console.error("Erreur API analyse:", error);
+      // Set safe default on error
+      setAnalysis({ valid: [], invalid: [], forbidden: [] });
+    }
   };
 
   // Sauvegarder le contenu
@@ -150,20 +201,24 @@ const MalagasyEditor = () => {
   // Raccourcis clavier
   useEffect(() => {
     const handleKeyDown = (e) => {
-      // Ctrl+S pour sauvegarder
-      if (e.ctrlKey && e.key === 's') {
-        e.preventDefault();
-        handleSave();
-      }
-      // Ctrl+E pour exporter
-      if (e.ctrlKey && e.key === 'e') {
-        e.preventDefault();
-        handleExport();
-      }
-      // Ctrl+N pour nouveau
-      if (e.ctrlKey && e.key === 'n') {
-        e.preventDefault();
-        handleNew();
+      try {
+        // Ctrl+S pour sauvegarder
+        if (e.ctrlKey && e.key === 's') {
+          e.preventDefault();
+          handleSave();
+        }
+        // Ctrl+E pour exporter
+        if (e.ctrlKey && e.key === 'e') {
+          e.preventDefault();
+          handleExport();
+        }
+        // Ctrl+N pour nouveau
+        if (e.ctrlKey && e.key === 'n') {
+          e.preventDefault();
+          handleNew();
+        }
+      } catch (err) {
+        console.error('Error in keyboard shortcut:', err);
       }
     };
 
